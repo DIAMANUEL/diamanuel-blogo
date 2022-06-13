@@ -1,4 +1,4 @@
-baseurl = "http://diamanuel.tk/"
+baseurl = "https://diamanuel.tk/"
 DefaultContentLanguage = "es"
 title = "DIAMANUEL BLOGO"
 theme = "beautifulhugo"

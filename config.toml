@@ -1,4 +1,4 @@
-baseurl = "https://DIAMANUEL.github.io"
+baseurl = "https://diamanuel-blogo.netlify.app/"
 DefaultContentLanguage = "es"
 title = "DIAMANUEL BLOGO"
 theme = "beautifulhugo"

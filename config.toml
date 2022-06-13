@@ -1,9 +1,8 @@
-baseurl = "https://username.github.io"
-DefaultContentLanguage = "en"
-#DefaultContentLanguage = "ja"
-title = "Beautiful Hugo"
+baseurl = "https://DIAMANUEL.github.io"
+DefaultContentLanguage = "es"
+title = "DIAMANUEL BLOGO"
 theme = "beautifulhugo"
-metaDataFormat = "yaml"
+metaDataFormat = "toml"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
@@ -15,7 +14,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
+  subtitle = "Un blog sobre videojuegos y programación."
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"

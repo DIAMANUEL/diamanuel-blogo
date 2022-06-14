@@ -1,5 +1,5 @@
 ---
-title: "Jugando **Vent wars** en fortnite"
+title: "Jugando Vent Wars en fortnite"
 date: 2022-06-14T15:00:00+02:00
 draft: false
 ---

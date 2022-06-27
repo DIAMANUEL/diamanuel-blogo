@@ -1,13 +1,12 @@
 ---
 title: "Proceso de creación de un post"
 date: 2022-06-27T17:09:35+02:00
-draft: true
+draft: false
 ---
 
 Hola, siento la inactividad, pero aquí en España ya es verano y no he tenido tanto tiempo para publicar posts.
 Pero lo importante es que ya he vuelto y voy a publicar mi primer post sobre programación, que ya iba siendo hora.
 En este post os indicaré los pasos que sigo para subir un post (que de hecho es muy irónico porque mientras escribo el post y lo publicó cumpliré estos mismos pasos xD). Sin más dilación, os comenzaré a explicar los pasos.
-
 ***1-Pensar qué subir.***
 Lo primero es pensar la base en la que el post se basará (en otras palabras, buscar algún tema del que hablar)
 ***2-Escribir el post y su título, además de configurar la fecha.***

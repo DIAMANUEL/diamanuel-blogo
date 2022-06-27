@@ -845,3 +845,18 @@ h4.see-also {
     border-radius: 4px;
     padding: 19px;
 }
+
+footer {
+  padding: 30px 0;
+  background-image: url(../img/SMBlock.png);
+  border-top: 1px #EAEAEA solid;
+  margin-top: auto;
+  font-size: 14px;
+}
+
+footer .container {
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 4px;
+  padding: 19px;
+
+}

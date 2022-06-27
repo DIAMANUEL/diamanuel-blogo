@@ -26,5 +26,5 @@ Primero tienes que poner *git add .*, para adjuntar todos los archivos modificad
 Si lo haces desde VS, es tan fácil como clicar en el icono debajo de la lupa de búsqueda, en el mensaje elige nombre del commit que quieras poner, le das al tick que hay un poco más arriba, te saltará un aviso de si quieres elegir todos los archivos modificados y si es que sí, le das *Guardar todo y confirmar*, dale a *Sincronizar cambios*
 y por último dale a *Aceptar* (o a no volver a mostrar si te molesta. No afectará mucho a nivel técnico).  
 
-Y ya está, así subo yo mis posts y modificaciones en otras cosas como la web de error 404 (que te recomiendo ver).
+Y ya está, así subo yo mis posts y modificaciones en otras cosas como la web de error 404 (que te recomiendo [ver](https://diamanuel.tk/404)).
 Espero que os sirva de ayuda si no sabías alguna de estas cosas y hasta el siguiente post. **Ah y puedes enviarme un email si lo envías a diamanuel@pm.me** Bye.

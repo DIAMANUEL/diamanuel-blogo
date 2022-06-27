@@ -854,9 +854,8 @@ footer {
   font-size: 14px;
 }
 
-footer .container {
+.post-heading, footer .container {
   background-color: rgba(255, 255, 255, 0.9);
   border-radius: 4px;
   padding: 19px;
-
 }

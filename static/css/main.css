@@ -859,3 +859,9 @@ footer {
   border-radius: 4px;
   padding: 19px;
 }
+
+.well {
+  background-color: rgba(210, 210, 2011, 0.9);
+    border-radius: 4px;
+    padding: 19px;
+}

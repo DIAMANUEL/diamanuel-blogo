@@ -1,6 +1,6 @@
 ---
-title: "¿Es complicado parender a programar HTML y CSS?"
-date: 2022-07-3T19:00:35+02:00
+title: "¿Es complicado aprender a programar HTML y CSS?"
+date: 2022-08-13T17:00:35+02:00
 draft: false
 ---
 

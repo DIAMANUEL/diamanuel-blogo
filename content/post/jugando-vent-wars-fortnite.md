@@ -1,7 +1,7 @@
 ---
 title: "Jugando Vent Wars en fortnite"
 date: 2022-06-14T15:00:00+02:00
-draft: false
+draft: true
 ---
 
 Hola, hoy he estado jugando a fortnite con un amigo, en un mapa llamado **Vent Wars** (por krisp).

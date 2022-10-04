@@ -1,5 +1,5 @@
 ---
-title: "lore de Paper Mario Color Splash (Historia inicial)"
+title: "Lore de Paper Mario Color Splash (Historia inicial)"
 date: 2022-07-21T19:00:35+02:00
 draft: false
 ---

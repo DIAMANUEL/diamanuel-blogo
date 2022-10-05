@@ -5,7 +5,7 @@ Todo comenzó en mi colegio, el primer día de una extraescolar que me llamó mu
 >En ese tiempo, que fue más o menos en 2019 era bastante imaginativo con esas cosas porque no conocía prácticamente nada de de como crear robots xD.
 
 Bueno, el caso es que yo y mis otros compañeros, estabamos ansiosos de empezar a construir robots. Pero el profesor nos dijo que para crear robots, primero teníamos que saber como hacer que entren en funcionamiento o dicho de otra forma hacer que se puedan mover.
-Para aprender a programarlos, el profesor nos enseñó un programa de programación para nobatos: **Scratch**. 
+Para aprender a programarlos, el profesor nos enseñó un programa de programación para novatos: **Scratch**. 
 
 Al principio no me hizo mucha gracia, pero luego descubrí que era súper divertido programar en **Scratch**. Con el tiempo fui aprendiendo a usar cada vez más y mejor los bloques, (que equibalen a líneas de código) lo que hizo que por ejemplo si nos mandaban hacer un juego de carreras sencillo, a mí y a un amigo mío que también iba muy adelantado, nos ponian alguna condición y añadido para que no se nos hiciera tan fácil hacer el juego.
 

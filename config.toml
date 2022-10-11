@@ -88,6 +88,11 @@ pygmentsCodefencesGuessSyntax = true
     url = "page/origins/"
     weight = 10
 
+[[menu.main]]
+    name = "Contáctame"
+    url = "page/contact-me/"
+    weight = 10
+
 # [[menu.main]]
  #   identifier = "samples"
    # name = "Samples"

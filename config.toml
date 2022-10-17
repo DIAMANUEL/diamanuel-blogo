@@ -89,6 +89,11 @@ pygmentsCodefencesGuessSyntax = true
     weight = 10
 
 [[menu.main]]
+    name = "   "
+    url = "page/secretpage/"
+    weight = 15
+
+[[menu.main]]
     name = "Contáctame"
     url = "page/contact-me/"
     weight = 10

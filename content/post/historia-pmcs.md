@@ -1,7 +1,7 @@
 ---
 title: "Lore de Paper Mario Color Splash (Historia inicial)"
 date: 2022-07-21T19:00:35+02:00
-draft: false
+draft: true
 ---
 
 Hola, hoy os iré contando la historia de un juego que para mí, es de los mejores de *WII U*: ¡Paper Mario Color Splash! (en este post, solo la historia inicial)

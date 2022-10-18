@@ -9,7 +9,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-#disqusShortname = "XXX"
+disqusShortname = "Diamanuel"
 #googleAnalytics = "XXX"
 
 [Params]
@@ -44,7 +44,7 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "DIAMANUEL 💎"
+  name = "DIAMANUEL💎"
  # website = "diamanuel.tk"
   email = "diamanuel@pm.me"
  #facebook = "username"

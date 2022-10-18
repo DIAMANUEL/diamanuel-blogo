@@ -15,7 +15,7 @@ Así que hoy os compartiré dos seeds de *Minecraft Java* muy curiosas que YO mi
 **-1107776051666155241**
 **x= -401 y =84 z= -438**
 
-Desde la 1.17, ya no es raro encontrar cuevas gigantes, pero si que es curioso que en una aldea en un bioma de *meadows*, justo debajo halla una mega-cueva de *dripstone* muy grande y que debajo hay otra mega-cueva de *dripstone* también muy grande. Una seed muy buena si quieres *dripstone* como para cubrir media isla del *End*.
+Desde la 1.18, ya no es raro encontrar cuevas gigantes, pero si que es curioso que en una aldea en un bioma de *meadows*, justo debajo halla una mega-cueva de *dripstone* muy grande y que debajo hay otra mega-cueva de *dripstone* también muy grande. Una seed muy buena si quieres *dripstone* como para cubrir media isla del *End*.
 
 ***2- Monumento oceánico al lado de una isla seta cerca del spawn***
 

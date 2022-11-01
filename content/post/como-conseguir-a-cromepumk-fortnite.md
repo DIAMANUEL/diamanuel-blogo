@@ -11,7 +11,7 @@ Hoy os diré como se consigue la skin de Halloween Pumkromado o Cromepumk o yo q
 Funcionará más o menos como la campaña de reinicios, osea que habrá que subir niveles en el pase de batalla:
 
 
-Se necesitarán 50 niveles para conseguir la skin, y en el camino, podrás conseguir una mochila y una pantalla de carga también relacionados con la skin, pero no he podido averiguar cuantos niveles cada uno, pero sí que serán 15 niveles para seguramente la mochila y 20 para la pantalla de carga, según mi fuente.
+Se necesitarán 50 niveles para conseguir la skin, y en el camino, podrás conseguir una mochila y una pantalla de carga también relacionados con la skin, pero no he podido averiguar cuantos niveles cada uno, pero sí que serán 10 niveles para seguramente la mochila y 25 para la pantalla de carga, según mi fuente.
 
 50 niveles parece mucho y lo es, pero con los mapas de xp del creativo, será más fácil. Además, seguramente saquen misiones especiales de algún modo para ayudar.
 

@@ -6,7 +6,7 @@ body {
   color: #404040;
   position: relative;
   /* background-color: #FFF; */
-  background-image: url(../img/nubesHalloweenBat.png);
+  background-image: url(../img/nubes.png);
   display: flex;
   flex-flow: column;
   height: 100vh;
@@ -848,7 +848,7 @@ h4.see-also {
 
 footer {
   padding: 30px 0;
-  background-image: url(../img/SMBlockHalloween.png);
+  background-image: url(../img/SMBlock.png);
   border-top: 1px #EAEAEA solid;
   margin-top: auto;
   font-size: 14px;

@@ -89,16 +89,6 @@ disqusShortname = "Diamanuel"
     weight = 10
 
 [[menu.main]]
-    name = "Minijuegos"
-    url = "page/minigames/"
-    weight = 10
-
-    [[menu.main]]
-    name = ""
-    url = "page/activitys/test-sabelotodo-minecraft"
-    weight = 10
-
-[[menu.main]]
     name = "   "
     url = "page/secretpage/"
     weight = 15

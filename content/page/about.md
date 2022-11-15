@@ -4,9 +4,11 @@ subtitle: Conóceme
 comments: true
 ---
 
+![demo](/img/avatar-icon.png)
+
 Hola, soy Manuel, pero me he apodado DIAMANUEL por diamante 💎 y Manuel.
 
-Para este nickname me inspiró cierto youtuber que hace roleplay de un perro amarillo al que le encanta los diamantes y que juega a Minecraft (supongo que es obvio quien es).
+Para este nickname me inspiró cierto youtuber que hace roleplay de un perro amarillo al que le encanta los diamantes y que juega a Minecraft (Mikecrack).
 
 Me gusta la **programación** y el **diseño web**, por eso tengo este blog, para aprender mientras comparto mi pasión por los videojuegos.
 

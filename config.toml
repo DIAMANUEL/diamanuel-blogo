@@ -45,7 +45,7 @@ disqusShortname = "Diamanuel"
 
 [Author]
   name = "DIAMANUEL💎"
- # website = "diamanuel.tk"
+ # website = "diamanuel.com"
   email = "diamanuel@pm.me"
  #facebook = "username"
   github = "DIAMANUEL"
@@ -86,6 +86,16 @@ disqusShortname = "Diamanuel"
 [[menu.main]]
     name = "Origenes"
     url = "page/origins/"
+    weight = 10
+
+[[menu.main]]
+    name = "Minijuegos"
+    url = "page/minigames/"
+    weight = 10
+
+    [[menu.main]]
+    name = ""
+    url = "page/activitys/test-sabelotodo-minecraft"
     weight = 10
 
 [[menu.main]]

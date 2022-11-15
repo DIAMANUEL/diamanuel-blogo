@@ -1,12 +1,14 @@
 {{ define "header" }}<!-- No header on 404 pages -->{{ end }}
 {{ define "main" }}
   <div role="main" class="container main-content">
+    <div class="diamanuel">
     <div class="text-center">
       <h1 class="error-emoji"></h1>
       <img src="img/hog-rana.gif" alt="This guy its a character from Clash Royale">
       <h2>¡OH NO! La página que buscabas no existe. ¿Está bien escrita la URL?</h2>
       <p class="error-text">{{ i18n "pageNotFound" }}</p>
     </div>
+  </div>
   </div>
 <script>
   var errorEmojiContainer = document.getElementsByClassName('error-emoji')[0];

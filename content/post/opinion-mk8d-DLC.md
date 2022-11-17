@@ -4,8 +4,8 @@ date: 2022-08-10T17:00:35+02:00
 draft: false
 ---
 Hola, hoy voy a traer un nuevo tipo de post: ***mis opiniones***.
-Sé que a muchos no les importarán estos post pero esque no es fácil saber que subir sobre videojuegos y programación.
->Por cierto, no subo mucho sobre esto último porque no es tan fácil subir videojuegos que programación. Disculpad las molestias.
+Sé que a muchos no les importarán estos post pero aveces no es fácil saber que subir sobre videojuegos y programación.
+>Por cierto, no subo mucho sobre esto último porque no es tan fácil subir programación que videojuegos. Disculpad las molestias.
 
 Bueno, hoy daré mi opinión del DLC o Downloadable Content (Contenido Descargable) de **Mario Kart 8 Deluxe** que irónicamente en la versión original creada en la **WII U** lo que añade la versión deluxe es un DLC. En otras palabras: que nintendo está sacando tantos DLCs de MK es para compensar el no haber creado *Mario Kart 9*. El DLC va a lanzarse por partes, que serán de dos en dos copas con cada una 4 circuitos, así que hoy haré una valoración de las cuatro copas que han sacado a fecha de publicación de este post. Iré valorando cada apartado y lo sumaré todo al final.
 Antes de empezar quiero decir que como DLC, vale la pena comprarlo ya que al fin y al cabo es más **Mario Kart**, y ahora sí, disfrutad del "show"

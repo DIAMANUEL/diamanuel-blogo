@@ -18,4 +18,4 @@ También suelo leer libros normalmente por la noche.
 
 ¡Disfrutad del blog!
 
-**Si lees esto es que tienes paciencia y te importó lo que escribía sobre mi vida. Gracias, lector.**
+**Si lees esto es que tienes paciencia y te ha importado lo que escribía sobre mi vida. Gracias, lector.**

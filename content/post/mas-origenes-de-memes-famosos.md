@@ -20,4 +20,4 @@ Un usuario subió a Reddit una captura del gato y empezaron a hacer memes en ing
 
 Fuente: [LIdolatro24](https://www.youtube.com/@Idolatro24).
 
->Un saludo a la clase de 1º Eso del colegio Trinitarias y en especial a Javi por promocionarme.
+>Un saludo a la clase de 1º Eso de cierto colegio y en especial a Javi por promocionarme.

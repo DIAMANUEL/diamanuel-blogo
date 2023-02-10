@@ -1,5 +1,5 @@
 Hola, en este apartado te propondré algunos minijuegos, tests, etc.
 
-***1- Test del sabelotodo sobre Minecraft***
+***1- Dino-Dash***
+Una recreación del dino de Chrome pero "algo" cambiado: [Dino Dash](diamanuel.com/page/minigames/dino-dash.html)
 
-Un test para aquellos que crean que tienen mucho conocimiento sobre el Minecraft: 

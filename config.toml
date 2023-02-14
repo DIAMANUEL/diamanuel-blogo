@@ -94,6 +94,11 @@ disqusShortname = "Diamanuel"
     weight = 15
 
 [[menu.main]]
+    name = "Minijuegos"
+    url = "page/minigames/"
+    weight = 10
+
+[[menu.main]]
     name = "Contáctame"
     url = "page/contact-me/"
     weight = 10

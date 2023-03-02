@@ -8,3 +8,6 @@ Una recreación del dino de Chrome pero "algo" cambiado: [Dino Dash](https://dia
 
 Tres en raya de toda la vida. Para dos jugadores, así que si no tines amigo no podrás divertirte en esto. [Tres en raya](https://diamanuel-tic-tac-toe.netlify.app/)
 
+***3- Number Guesser***
+
+Adivina el número secreto. Un juego con una mecánica simple y *Family Friendly*.[Number Guesser](https://diamanuel-number-guesser.netlify.app/)

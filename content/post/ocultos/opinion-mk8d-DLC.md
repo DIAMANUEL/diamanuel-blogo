@@ -1,7 +1,7 @@
 ---
 title: "¿Vale la pena comprar el DLC de MK 8 deluxe?"
 date: 2022-08-10T17:00:35+02:00
-draft: false
+draft: true
 ---
 Hola, hoy voy a traer un nuevo tipo de post: ***mis opiniones***.
 Sé que a muchos no les importarán estos post pero aveces no es fácil saber que subir sobre videojuegos y programación.

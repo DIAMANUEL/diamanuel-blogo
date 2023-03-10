@@ -13,6 +13,6 @@ Este meme se usa cuando alguien juega bien a los videojuegos o de forma sarcást
 Al principio Rick Astley, era un cantante normal, sacando canciones, pero un día una de sus canciones se volvió viral por una broma de internety a partir de ahí se volvió super conocido y hasta recibió un término: *rickrollear*. No tengo más información de lo que lo volvió así de famoso, así que perdonad 😅​.  
 
 ***3- Doge***  
-El *Doge* es un perro legendario de internet de raza Shiba inu, una raza japonesa y curiosa. El verdadero nombre de este perro es Kabosu. El meme nació en 2013, pero sin embargo hoy en día sigue siendo legendario. La dueña subió imágenes de su perra a su blog personal (¡mira que curioso, esto también lo es!) y la mirada juzgadora y su pose tan curiosa, llamó la atención de mucha gente y poco a poco se fue viralizando hasta lo que conocemos hoy en día como *Doge*.  
+El *Doge* es un perro legendario de internet de raza Shiba inu, una raza japonesa y curiosa. El verdadero nombre de este perro es Kabosu. El meme nació en 2013, pero, sin embargo, hoy en día sigue siendo legendario. La dueña subió imágenes de su perra a su blog personal (¡Mira que curioso, esto también lo es!) y la mirada juzgadora y su pose tan curiosa, llamó la atención de mucha gente y poco a poco se fue viralizando hasta lo que conocemos hoy en día como *Doge*.  
 
 >De hecho, el nombre de *blogo* viene del doge porque pensaba que se escribía dogo o doggo, pero más tarde me di cuenta que no y hoy en día se ha quedado con blogo.

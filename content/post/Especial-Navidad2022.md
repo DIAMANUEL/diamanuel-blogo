@@ -4,7 +4,7 @@ date: 2022-12-25T17:00:35+02:00
 draft: false
 ---
 
-¡FELIZ NAVIDAD! espero que halláis disfrutado de vuestra familia y os halláis divertido cantando villancicos y comiendo turrones y polvorenes.
+¡FELIZ NAVIDAD! Espero que halláis disfrutado de vuestra familia y os halláis divertido cantando villancicos y comiendo turrones y polvorones.
 Este post de *"Shinyfreeze"* se dividirá en tres partes: **1--> Novedades navideñas de los videojuegos, 2-->El anuncio de un evento de Discord y 3-->Cosas del blog.**
 
 
@@ -18,11 +18,11 @@ Este post de *"Shinyfreeze"* se dividirá en tres partes: **1--> Novedades navid
 ***2- Interactual Diamond***
 
 **Un evento que se realizará en todos los Shinyfreeze en los que el blog siga online donde podréis consultarme dudas en el chat de discord y os las responderé, después de comentar novedades y etc.**
-**No se cuándo será, pero creo que será cerca de año nuevo. Cuando sepa cuándo ponerlo, saldrá un aviso de evento inminente el el grupo**
+**No sé cuándo será, pero creo que será cerca de año nuevo. Cuando sepa cuándo ponerlo, saldrá un aviso de evento inminente el grupo**
 
 
 ***3- Cosas del blog***
 
-**¿Os acordáis que en el post de** ***"Proceso de creación de una página"*** **hay una imagen de los archivos de los posts y páginas desde VS CODE, y que hay un archivo censurado? Pués ese archivo es una página secreto, y os reto a buscarla, ¡ja ja! el primero que la encuentre y cumpla los pasos se llevará una recompensa especial...** **Ahora voy a hacer una web por separado de este blog, que será exactamente lo mismo, pero ahí testearé próximas actualizaciones del blog, para poder hacer actualizaciones más grandes y no tener que hacerlo en un día.**
+**¿Os acordáis que en el post de** ***"Proceso de creación de una página"*** **hay una imagen de los archivos de los posts y páginas desde VS CODE, y que hay un archivo censurado? Pues ese archivo es una página secreta, y os reto a buscarla, ¡ja ja! El primero que la encuentre y cumpla los pasos se llevará una recompensa especial...** **Ahora voy a hacer una web por separado de este blog, que será exactamente lo mismo, pero ahí testearé próximas actualizaciones del blog, para poder hacer actualizaciones más grandes y no tener que hacerlo en un día.**
 
 Eso es todo, os deseo un feliz Año Nuevo y atentos al *Discord* para el Interactual Diamond 2022.

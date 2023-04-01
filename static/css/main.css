@@ -6,7 +6,7 @@ body {
   color: #404040;
   position: relative;
   /* background-color: #FFF; */
-  background-image: url(../img/nubes.png);
+  background-image: url(../img/SMBlock-inverted.png);
   display: flex;
   flex-flow: column;
   height: 100vh;
@@ -158,8 +158,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #F5F5F5;
-  border-bottom: 1px solid #EAEAEA;
+  background: #02040f;
+  border-bottom: 1px solid #02040f;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -172,7 +172,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #404040;
+  color: #fff;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -335,8 +335,8 @@ img {
 
 footer {
   padding: 30px 0;
-  background: #F5F5F5;
-  border-top: 1px #EAEAEA solid;
+  background: #02040f;
+  border-top: 1px #02040f solid;
   margin-top: auto;
   font-size: 14px;
 }
@@ -513,7 +513,7 @@ footer .theme-by {
 .blog-tags a:hover {
   border-radius: 2px;
   color: #008AFF;
-  background-color: #CCC;
+  background-color: #ffffff;
 }
 
 .post-preview .blog-tags {
@@ -963,7 +963,7 @@ ul.share li:hover .fab {
 
 footer {
   padding: 30px 0;
-  background-image: url(../img/SMBlock.png);
+  background-image: url(../img/nubes-inverted.png);
   border-top: 0px #EAEAEA solid;
   margin-top: auto;
   font-size: 14px;

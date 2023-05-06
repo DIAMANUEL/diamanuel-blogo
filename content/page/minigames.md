@@ -14,4 +14,4 @@ Adivina el número secreto. Un juego con una mecánica simple y *Family Friendly
 
 ***4- Snake***
 
-El clásico juego para móbiles antiguos en el que controlas a una serpiente con las flechas del teclado. [Cubnake](cubnake.netlify.app)
+El clásico juego para móbiles antiguos en el que controlas a una serpiente con las flechas del teclado. [Cubnake](https://cubnake.netlify.app)

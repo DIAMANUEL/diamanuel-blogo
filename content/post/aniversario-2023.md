@@ -7,7 +7,9 @@ draft: false
 SIENTO LA INACTIVIDAD, PERO ESTUVE MUY OCUPADO. No he tenido mucho tiempo últimamente, pero aquí estoy de nuevo.
 
 ¡DIAMANUEL BLOGO cumple un añito!
-![siuuu](static/img/icon%20aniversario.png)
+
+
+![img](static/img/icon-aniversario.png)
 
 Aunque no haya mucho que decir, quiero anunciar... ¡QUE EL BLOGO TIENE REDES SOCIALES!
 

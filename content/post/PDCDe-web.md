@@ -27,4 +27,3 @@ Y ya está, es una explicación muuuuy básica, pero porque es mejor ver un tuto
 
 
 
->Dedicado a TR. PD: a Valeria se le da mal el inglés

@@ -1,7 +1,7 @@
 ---
 title: " Anécdotas de Diamanuel 1"
 date: 2022-12-02T17:00:35+02:00
-draft: false
+draft: true
 ---
 
 Hola, hoy os contaré una anécdota de cuando apenas acababa de empezar a jugar Minecraft, sobre el 2016-2017 más o menos.

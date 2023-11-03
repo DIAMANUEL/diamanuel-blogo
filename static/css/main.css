@@ -158,8 +158,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #181818;
-  border-bottom: 1px solid #1a1a1a;
+  background: #fff;
+  border-bottom: 1px solid #fff;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -172,7 +172,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #fff;
+  color: #181818;
 }
 
 .navbar-custom .navbar-brand:hover,

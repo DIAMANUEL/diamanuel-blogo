@@ -1,7 +1,7 @@
 ---
 title: "Proceso de creación de un post"
-date: 2022-06-27T17:09:35+02:00
-draft: false
+date: 2023-10-27T17:09:35+02:00
+draft: true
 ---
 
 Hola, siento la inactividad, pero aquí en España ya es verano y no he tenido tanto tiempo para publicar posts.

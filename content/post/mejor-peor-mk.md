@@ -1,10 +1,10 @@
 ---
 title: "La mejor y la peor pista de Mario Kart"
-date: 2023-11-24T17:00:35+02:00
-draft: true
+date: 2023-12-26T17:00:35+02:00
+draft: false
 ---
 
-Hola, hoy os contaré mi opininión sobre cuál es el mejor y el peor circuito de cada juego de Mario Kart.
+Hola, hoy os contaré mi opininión sobre cuál es el mejor y el peor circuito de cada juego de Mario Kart. No incluiré Mario Kart Tour
 
 ***Super Mario Kart***
 
@@ -25,8 +25,41 @@ En esta entrega la mejor es la **Senda Arcoíris**, originalidad etc. etc. Pero 
 
 La peor es **Castillo Bowser 1**, por su simplicidad, ya que son 8 curvas de 90º o menos y podrías decir que es así por ser de la copa champiñón, pero Parque de la Rivera es mucho más complejo.
 
-***M.K. Double Dash!!***
+***M. K. Double Dash!!***
 
 La mejor pista es **Circuito Yoshi** porque aunque sea un circuito de tipo *"circuito x"*, es la mejor por su decoración, su forma que es la de un Yoshi y que es muy divertida.
 
 La peor, me parece que es **Desierto Seco-Seco**, por su temática genérica y su diseño simplístico, porque en esta versión ni siquiera había un lago al final. Tiene un par de *Pokeys* pero poco más
+
+***M. K. DS***
+
+Esta elección ha estado muy reñida, pero creo que el mejor es **Pinball Waluigi**, ya que la temática es buenísima, el circuito en sí es divertido y los obstáculos son muy divertidos.
+
+Por otro lado, el peor y con mucha diferencia es **Circuito en 8** porque como el nombre indica es un 8 con una temática demasiado genérica.
+
+***Mario Kart WII***
+
+Sin duda mi juego favorito de la saga. Mi circuito favorito es **Cumbre DK**, porque este circuito me hacía sentir que estaba haciendo *snowboard* como los Shy Guy que aparecen al final. Es un ejemplo de un circuito que aunque tenga una temática genérica, puede ser bueno.
+
+La peor es *Circuito Luigi* por ser casi un círculo y no tener obstáculos. Es divertido, sí, pero comparado con los demás se queda corto.
+
+***Mario Kart 7***
+
+Un juego que de repente la gente dice que está infravalorado. Su mejor pista es **Montaña Wuhu**, una pista ambientada en la isla *Wuhu* de *Wii Sports Resort*. La pista no solo es muy divertida, sino que encima se siente como si fuera una aventura en probablemente una de las islas más conocidas de la história del videojuego.
+
+La peor, sin embargo, es **Circuito Toad** por lo mismo que los circuitos anteriores: es simple y genérico.
+
+***Mario Kart 8 Wii U***
+
+La mejor de la versión de Wii U incluyendo el DLC (el antiguo, el de 8 DX va después) es **Mute City**, inspirado en *F-ZERO*. Hace muy buen uso de la antigravedad y el diseño y temática son muy buenas.
+
+La peor es sorprendentemente **Parque Acuático**, porque desde mi punto de vista son dos curvas, otra curva gigante y un parapente. En Mario Kart 7 ya tuvimos lo de conducir bajo el agua, y creo que este circuito solo sirve para reintroducir el agua.
+
+***Pase de pistas extra***
+
+No hay muchos circuitos nuevos, pero el mejor sin duda es **Isla de Yoshi**. La temática es increíblemente bien ejecutada, los obstáculos son originales y sencillamente es un circuito para recordar.
+
+No hay pistas malas, pero la *"menos mejor"* es **Cielos Helados** por ser solo saltos sin mucha emoción.
+
+Y eso ha sido todo. Este ha sido uno de los posts que más he tardado en escribir. ¡Hasta otro post!
+

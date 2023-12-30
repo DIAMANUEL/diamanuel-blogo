@@ -1,5 +1,5 @@
 ---
-title: "[SPOILER]Significado de la canción de los créditos de Portal 2"
+title: "Significado de la canción de los créditos de Portal 2"
 date: 2023-03-26T00:00:35+02:00
 draft: false
 ---
@@ -47,7 +47,7 @@ Hola, ultimamente he estado jugando *Portal* y *Portal 2* y como me han encantad
 
 >Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
 
-Y eso ha sido todo por hoy. Hasta la próxima
+Y eso ha sido todo por hoy. Hasta la próxima.
 
 
 

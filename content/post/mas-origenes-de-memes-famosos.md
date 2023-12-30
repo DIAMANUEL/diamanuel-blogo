@@ -7,7 +7,7 @@ draft: false
 Hola, siento la inactividad, pero hoy os traigo más orígenes de memes famosos:
 
 ***1- SIUUUU***
-Este meme se viralizó en la entrega del balón de oro a Cristiano Ronaldo en 2014, sin embargo, la primera vez que lo dijo fue en el 2008 con el Manchester. Lo usaba como celebración después de los goles, y lo popularizaron gente en el Real Madrid como Sergio Ramos, Marcelo y clara-mente Cristiano. En una entrevista le dijeron que por qué decía SIU, pero Cristiano le dijo que era SI pero más grave.
+Este meme se viralizó en la entrega del balón de oro a Cristiano Ronaldo en 2014, sin embargo, la primera vez que lo dijo (según mis fuentes) fue en el 2008 con el Manchester. Lo usaba como celebración después de los goles, y lo popularizaron gente en el Real Madrid como Sergio Ramos, Marcelo y clara-mente Cristiano. En una entrevista le dijeron que por qué decía SIU, pero Cristiano le dijo que era SI pero más grave.
 
 ***2-🎶You didn't have to cut me off...🎶***
 Este meme va sobre un cerebro galáctico como representando una gran inteligencia con un remix de la canción *"Somebody that I used to know"* de Gotye. Se suele emplear después de un clip de alguien haciendo algo con -1000IQ.

@@ -15,7 +15,7 @@ La peor, sin duda también, es **Lago Vainilla 1**, porque es un circuito con f�
 
 ***Mario Kart 64***
 
-La mejor en mi opinión es **Valle de Yoshi**, ya que ver una pista con un diseño tan original en la segunda entrega de la saga, es sorprendente. Tienes que elegir una ruta hasta llegar a una única carretera sorteando obstáculos varios. El huevo de Yoshi al final es un toque muy bueno.
+La mejor en mi opinión es **Valle de Yoshi**, ya que ver una pista con un diseño tan original en la segunda entrega de la saga es sorprendente. Tienes que elegir una ruta hasta llegar a una única carretera sorteando obstáculos varios. El huevo de Yoshi al final es un toque muy bueno.
 
 El peor, por raro que suene, es en mi opinión la **Senda Arcoíris**, ya que dura 6 min. y si fuera entretenido no sería para tanto, pero este circuito es una carretera vallada por todas partes, sin obstáculos ni curvas desafientes. Solo unos *Chomp Cadenas* que atraviesan la carretera, lo normal. Simplemente es eso: simple. Eso sí, la música y el escenario son muy buenos, pero solo eso no es suficiente para hacer un circuito bueno, sobre todo teniendo en cuenta que es LA SENDA ARCOÍRIS.
 

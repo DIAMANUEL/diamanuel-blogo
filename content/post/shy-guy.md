@@ -11,9 +11,10 @@ Shy Guy apareció en la saga por primera vez en Super Mario USA (Super Mario Bro
 
 Este último es uno de los más inquietantes de la saga, pués lleva una máscara y le ha ha quitado en muy escasas ocasiones. Lo malo es que nunca le enfocan. En la época de la GameCube, había un juego de tenis en el que Shy Guy al ganar se tropezaba y se le caía la máscara y luigi se asustó al verle la cara. Años después un *mod* que modificaba la cámara descubrió que no había nada en Shy Guy, que estaba hueco, pero no significa que esté vacío, lo que pasa es que los *devs* no tenían por qué modelarle el interior, ya que no se vería dentro del juego. Otras teorías contaban que eran Boos por la forma de sus brazos y su voz extraña, y llevaban máscaras para no asustarse si le miran, pero no es cierta porque los Boos tienen la voz aguda y atraviesan cosas, no podrían estarse en el disfraz. En resumen, todavía no sabe nadie qué o quién es, pero tiene que ser aterrador, eso sí porque como dije antes, Luigi se espantaba al ver el rostro del personaje y en la reciente película de Super Mario en la escena del concierto en el reino de Bowser, discretamente aparece de espaldas un Shy Guy quitándose la máscara delante de unos koopas y estos se asustan también
 
-![img1](../../static/img/ShyGuyGCN.PNG)
+![Shy-Guy-GCN](../../static/img/Posts/Shy-Guy/ShyGuyGCN.PNG)
 
-![img1](../../static/img/ShyGuyMovie.PNG)
+![Shy-Guy-Movie](../../static/img/Posts/Shy-Guy/ShyGuyMovie.PNG)
+
 
 
 

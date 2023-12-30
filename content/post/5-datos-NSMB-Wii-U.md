@@ -36,7 +36,7 @@ En el fondo de un nivel del bosque oscuro, se hace referencia al famosísimo cua
 
 Sin contar el castillo de Peach, la isla secreta y la senda arcoíris, todos los mundos tienen nombre de comida: 
 
-                                          Esto es muy xD
+                                          Esto es muy gracioso
                                      Mundo 1 Dehesa Bellotera
 
                                      Mundo 2 Dunas Pasteleras

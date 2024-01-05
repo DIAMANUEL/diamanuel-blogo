@@ -45,7 +45,7 @@ Una consola de una generación más allá. Una consola a todo color y a máxima 
 
 Se podía doblar, haciéndola la más portátil en ese momento. Los botones estaban aplanados para no rayar la pantalla. Por primera vez en el resto del mundo, la pantalla era retroiluminada y ya no usaba pilas, era recargable. Mantenía la retrocompatibilidad con Game Boy y Game Boy Color.
 
-***Game Boy Micro***
+***Game Boy Micro ~ 2005***
 
 ![Micro](https://upload.wikimedia.org/wikipedia/commons/2/27/Game-Boy-Micro.png)
 

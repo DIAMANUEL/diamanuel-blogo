@@ -1,6 +1,6 @@
 ---
 title: "¿Vale la pena comprar el DLC de MK 8 deluxe?"
-date: 2022-08-10T17:00:35+02:00
+date: 2024-01-27T17:00:35+02:00
 draft: false
 ---
 Hola, soy consciente de que últimamente he subido mucho de Mario Kart, pero pronto habrá más variedad.

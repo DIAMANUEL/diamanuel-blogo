@@ -16,6 +16,6 @@ Adivina el número secreto. Un juego con una mecánica simple y *Family Friendly
 
 El clásico juego para móbiles antiguos en el que controlas a una serpiente con las flechas del teclado. [Cubnake](https://cubnake.netlify.app)
 
-***5- Brick Breacker ~ No apto para móvil***
+***5- Brick Breaker ~ No apto para móvil***
 
-Un juego tipo Arkanoid. Es el primer videojuego que he creado con Unity, el motor de videojuegos por excelencia. Estuvo en beta durante un largo tiempo, pero hoy lo doy por concluido. También se puede descargar desde Itch.io.[Brick Breacker](https://diamanuel.github.io/BrickBreacker/)
+Un juego tipo Arkanoid. Es el primer videojuego que he creado con Unity, el motor de videojuegos por excelencia. Estuvo en beta durante un largo tiempo, pero hoy lo doy por concluido. También se puede descargar desde Itch.io.[Brick Breaker](https://diamanuel.github.io/BrickBreacker/)

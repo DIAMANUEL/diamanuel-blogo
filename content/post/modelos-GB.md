@@ -53,3 +53,5 @@ Es el modelo que nadie recuerda, ya que salió un año después de la DS.
 Pierde la retrocompatibilidad, pero al menos todavía es recargable y retroiluminada. No hay mucho más que decir de esta cosa.
 
 Con eso he explicado todos los modelos de Game Boy, que son unos cuantos. ¡Hasta el próximo post!
+
+>Imágenes de Wikipedia Commons.

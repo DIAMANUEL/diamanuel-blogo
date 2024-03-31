@@ -1,6 +1,6 @@
 ---
 title: "Anuncio super duper importante"
-date: 2024-04-01T13:00:35+02:00
+date: 2024-03-31T13:00:35+02:00
 draft: false
 ---
 

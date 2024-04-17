@@ -6,16 +6,14 @@ comments: true
 
 ![demo](/img/avatars/avatar-icon-remake.png)
 
-Hola, soy Manuel, pero me he apodado DIAMANUEL por diamante 💎 y Manuel.
+Hola, soy Manuel, pero me he apodado DIAMANUEL por diamante 💎 y mi nombre.
 
-Para este nickname me inspiró cierto youtuber que hace roleplay de un perro amarillo al que le encanta los diamantes y que juega a Minecraft (Mikecrack).
+Para este nickname me inspiró Mikecrack, uno de mis YouTubers favoritos hace varios años. Solía gustarme los vídeos de escondite.
 
-Me gusta la **programación** y el **diseño web**, por eso tengo este blog, para aprender mientras comparto mi pasión por los videojuegos.
+Me gusta la **programación** y el **diseño web**, por eso tengo este blog, para aprender mientras comparto mi pasión por los videojuegos. Antes de nada quiero resaltar que me gusta mucho más Nintendo que PlayStation.
 
-En mis ratos libres suelo jugar un poco y desde ahora, escribir mis experiencias y avances por aquí.
+En mis ratos libres suelo jugar un poco y desde hace ya unos años, escribir mi opinión acerca de diferentes temas dentro del mundo de los videojuegos.
 
-También suelo leer libros normalmente por la noche.
+Otros hobbys que me gustan son la lectura y el ciclismo y de vez en cuando veo baloncesto.
 
-¡Disfrutad del blog!
-
-**Si lees esto es que tienes paciencia y te ha importado lo que escribía sobre mi vida. Gracias, lector.**
+¡Disfrutad del *blogo*!

@@ -12,7 +12,7 @@ Pero antes, quería comentaros que he creado una página sobre mis orígenes com
 **New Super Mario Bros Wii U**, si te sabes todas las salidas secretas puede llegar a ser muy corto en cuanto a niveles, ya que en total cuenta con 164 niveles que en este caso no es obligatorio pasárselos todos, pero... ¿Cuál es el mínimo de niveles para pasarse el juego? ¿149? ¿127? ¿Tan solo 84? ¡Pués no, solo hay que pasarse como mínimo 20 niveles!
 
 
-***2- Referencia a los clásicos***
+***2- Referencia a los juegos clásicos***
 
 
 En este juego, hay un *power-up* especial llamado **Súper Bellota P** que te permite pegar saltitos en el aire infinitamente en vez de una vez por planeo, que solo se consigue atrapando al *Caco Gazapo* cuando aparezca.

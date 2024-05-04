@@ -11,7 +11,6 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 disqusShortname = "Diamanuel"
 #googleAnalytics = "XXX"
-
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "Un blog sobre videojuegos y programación."
@@ -30,7 +29,6 @@ disqusShortname = "Diamanuel"
   showRelatedPosts = true
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
 #  desc = "Triangle"
@@ -42,7 +40,6 @@ disqusShortname = "Diamanuel"
 #[[Params.bigimg]]
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
-
 [Author]
   name = "DIAMANUEL💎"
  # website = "diamanuel.com"
@@ -72,60 +69,49 @@ disqusShortname = "Diamanuel"
  # kaggle = "username"
  # weibo = "username"
  # slack = "username"
-
 # [[menu.main]]
   #  name = "Blog"
    # url = ""
    # weight = 1
-
 [[menu.main]]
     name = "Sobre mí"
     url = "page/about/"
     weight = 10
-
 [[menu.main]]
     name = "Origenes"
     url = "page/origins/"
     weight = 10
-
 [[menu.main]]
     name = "   "
     url = "page/secretpage/"
     weight = 15
-
 [[menu.main]]
     name = "Minijuegos"
     url = "page/minigames/"
     weight = 10
-
 [[menu.main]]
     name = "Contáctame"
     url = "page/contact-me/"
     weight = 10
-
 # [[menu.main]]
  #   identifier = "samples"
    # name = "Samples"
    # weight = 2
-
 #[[menu.main]]
  #   parent = "samples"
   #  name = "Big Image Sample"
    # url = "post/2017-03-07-bigimg-sample"
     # weight = 1
-
 #[[menu.main]]
  #   parent = "samples"
   #  name = "Math Sample"
   #  url = "post/2017-03-05-math-sample"
    # weight = 2
-
 #[[menu.main]]
  #   parent = "samples"
   #  name = "Code Sample"
    # url = "post/2016-03-08-code-sample"
     # weight = 3
-
 # [[menu.main]]
  #   name = "Tags"
  #   url = "tags"

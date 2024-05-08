@@ -1,6 +1,6 @@
 ---
 title: "Diamanuelo, te he JuanQueado - ¡Camaradas Tetrisistas, Uníos! La Revolución contra el Rey ha Comenzado"
-date: 2024-05-07T00:13:50+02:00
+date: 2024-04-20T00:13:50+02:00
 description: "Llamamiento para formar un ejército de tetrisistas y destronar al autotitulado Rey del Tetris"
 tags: ["Tetris", "Videojuegos", "Revolución"]
 categories: ["Juegos"]

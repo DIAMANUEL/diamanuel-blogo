@@ -4,6 +4,7 @@ date: 2024-04-20T00:13:50+02:00
 description: "Llamamiento para formar un ejército de tetrisistas y destronar al autotitulado Rey del Tetris"
 tags: ["Tetris", "Videojuegos", "Revolución"]
 categories: ["Juegos"]
+draft: true
 ---
 
 ¿Estás harto de las humillaciones del déspota Rey del Tetris, camarada? ¿Te tiene saturado con sus bailes burgueses y letras malas? ¡La hora de la revolución obrera tetrisista ha llegado!

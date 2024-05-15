@@ -6,7 +6,8 @@ body {
   color: #404040;
   position: relative;
   /* background-color: #FFF; */
-  background-image: url(../img/Backgrounds/nubes_GB.png); /* Prueba Danilleo */
+  background-image: url(../img/Backgrounds/nubes.png);
+  /* Prueba Danilleo */
   display: flex;
   flex-flow: column;
   height: 100vh;
@@ -964,7 +965,7 @@ ul.share li:hover .fab {
 
 footer {
   padding: 30px 0;
-  background-image: url(../img/Backgrounds/SMLock.png);
+  background-image: url(../img/Backgrounds/SMBLock.png);
   border-top: 0px #EAEAEA solid;
   margin-top: auto;
   font-size: 14px;
@@ -984,14 +985,14 @@ footer .container {
 }
 
 .reactions {
-  background-color: #9CBC06;
+  background-color: #F5F5F5;
   border: 1px solid #e3e3e3;
   border-radius: 4px;
   padding: 6px;
 }
 
 #disqus_thread {
-  background-color: #9CBC06;
+  background-color: #F5F5F5;
   border: 1px solid #e3e3e3;
   border-radius: 4px;
   padding: 6px;

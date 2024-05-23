@@ -12,11 +12,11 @@ Este primer post será sobre probablemente el grupo de música más importante d
 
 ***5- Yesterday ~ HELP! 1965***
 
-Una gran canción, que tiene una curiosa historia. Pol se despertó con esa melodía en la cabeza pensando que era de otra canción. En el proceso de creación al principio iba a ir sobre huevos revueltos, ya que supongo que fue lo que desayunó ese día.
+Una gran canción, que tiene una curiosa historia. Paul se despertó con esa melodía en la cabeza pensando que era de otra canción. En el proceso de creación al principio iba a ir sobre huevos revueltos, ya que supongo que fue lo que desayunó ese día.
 
 ***4- Strawberry Fields Forever ~ Magical Mystery Tour 1967***
 
-Una profunda y psicodélica canción sobre la infancia de Jonh Lennon en los campos de fresas, que es un sitio real. Al principio iba a salir en el album *Srgt. Pepper's*, pero se descartó porque no pegaba con el tema del disco. Jonh y Pol no se decidían en el ritmo, así que por la segunda mitad algunos instrumentos van más rápido que otros.
+Una profunda y psicodélica canción sobre la infancia de Jonh Lennon en los campos de fresas, que es un sitio real. Al principio iba a salir en el album *Srgt. Pepper's*, pero se descartó porque no pegaba con el tema del disco. Jonh y Paul no se decidían en el ritmo, así que por la segunda mitad algunos instrumentos van más rápido que otros.
 
 ***3- For No One ~ Revolver 1966***
 

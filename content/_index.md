@@ -1,8 +1,5 @@
 ## ¡Bienvenido humano!
-Esta es **MI web sobre videojuegos y programación**.
-si no entiendes un pimiento sobre esto último, no te hagas el "Dramaqueen"​👸​,
-lo explicaré de una manera *Family Friendly.*
-
-PSD: Te aseguro que hasta tu abuelo entenderá mi web con mis explicaciones 😎.
+En este blog hablo sobre videojuegos y temas relacionados con el mundo digital de una forma divertida y *Family Friendly*.
+Suelo subir post cada 2 semanas así que, ¡pásate por aquí de vez en cuando!
 
 ¡Disfruta del blogo!

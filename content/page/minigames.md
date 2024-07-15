@@ -18,4 +18,8 @@ El clásico juego para móbiles antiguos en el que controlas a una serpiente con
 
 ***5- Brick Breaker***
 
-Un juego tipo Arkanoid. Es el primer videojuego que he creado con Unity, el motor de videojuegos por excelencia. Estuvo en beta durante un largo tiempo, pero hoy lo doy por concluido. También se puede descargar desde Itch.io.[Brick Breaker PC](https://diamanuel.github.io/BrickBreacker/) [Brick Breaker Movile](https://diamanuel.github.io/BrickBreakerMovile/)
+Un juego tipo Arkanoid. Es el primer videojuego que he creado con Unity, el motor de videojuegos por excelencia. Estuvo en beta durante un largo tiempo, pero hoy lo doy por concluido. También se puede descargar desde Itch.io.
+
+
+[Brick Breaker PC](https://diamanuel.github.io/BrickBreacker/)                                                                                                                
+[Brick Breaker Movile](https://diamanuel.github.io/BrickBreakerMovile/)

@@ -10,12 +10,15 @@ Ideas que podría hacer próximamente... Hmmmm...
 Bueno, puede que haga alguna historieta de estas en las que puedes elegir que pasará...
 
 
-En el canal de YouTube veo que tengo que hacer algo...
+En el canal de YT tengo que hacer algo
 
 
-Ah, y podría hacer un preguntas y respuestas, pero nadie comenta **:(**
+¿Una secuela de Brick Breaker con todas las ideas descartadas?
 
 
-AH, POR CIERTO, también está ese Tetris para web hecho en Unity que anuncié hace mucho. Está hecho, pero necesita sonidos y un menú.
+
+
+
+
 
 

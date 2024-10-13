@@ -1,6 +1,6 @@
 ---
 title: "Prototipos de consolas/accesorios raros"
-date: 2024-09-02T17:00:35+02:00
+date: 2024-10-12T17:00:35+02:00
 draft: false
 ---
 Hola, siento la inactividad, pero es que estaba seco de ideas, no se me ocurría nada. No, el blog no está muerto y seguiré subiendo post, aunque no se si cumpliré lo del post cada 2 semanas 😅​​.

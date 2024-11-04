@@ -3,17 +3,18 @@ title: "Las portátiles son cada vez menos portátiles"
 date: 2024-11-01T17:00:35+02:00
 draft: false
 ---
+
 Hola, siento haber tardado pero estoy aquí otra vez para un nuevo post en el que hablaré de la evolución de las consolas portátiles a lo largo de los años y de cómo cada vez son más grandes y pesadas.
 
 Las consolas portátiles han sido siempre mis favoritas, porque me encanta como en aparatos pequeños y compactos caben 1001 posibilidades para juegos divertidos disfrutables en cualquier momento y lugar.
 
-Siempre han sido populares, por eso es de esperar que siempre se intenta mejorar una y otra vez para mejorar la experiencia del usuario, sin embargo, están evolucionando tanto que con ello requieren un mayor tamaño y peso, dificultando el objetivo principal de una portátil: poder llevarse a cualquier lado.
+Siempre han sido populares, por eso es de esperar que siempre se intente mejorar una y otra vez para mejorar la experiencia del usuario, sin embargo, están evolucionando tanto que con ello requieren un mayor tamaño y peso, dificultando el objetivo principal de una portátil: poder llevarse a cualquier lado.
 
-La primera consola portátil de la história fue la **Game & Watch**. La consola era una especie de calculadora con dibujos, o por lo menos funcionaba de forma parecida. Cada consola era un juego diferente, así que si querías otro necesitarías otro modelo de consola. Lo bueno, es que eran enanas y cabían en cualquier bolsillo y te cabían varias en él. Como eran juegos tan simples no requerían mucho espacio, y esto también llevó a que fuesen ligeras.
+La primera consola portátil de la história fue la **Game & Watch**. La consola era una especie de calculadora con dibujos, o por lo menos funcionaba de forma parecida. Cada consola era un juego diferente, así que si querías otro necesitarías otro modelo de consola. Lo bueno, es que eran enanas y cabían en cualquier bolsillo y te cabían varias en él. Cómo eran juegos tan simples no requerían mucho espacio, y esto también llevó a que fueran ligeras.
 
 Años después llegaron la **Game Boy** y la **Game Gear**, las primeras portátiles de cartuchos intercambiables y claro, con ese superavance llegó que eran enormes en comparación a la portátil anterior, aunque para la época eran bastante portátiles teniendo en cuenta que medían un cuarto o menos que las consolas de sobremesa de la época.
 
-Si seguimos hablando de la **Game Boy**, veremos cómo sus siguientes versiones son cada vez más delgadas y pequeñas. Por ejemplo la *Pocket* estaba pensada para ser mucho más pequeña en sus tres dimensiones ofreciendo la misma calidad de la original y lo consiguió, aún que con menos duración de batería. Luego llegó la *Color* con su pantalla a color, pero también era más delgada y redondeada que el ladrillo gris original, haciéndola más cómoda y compacta.
+Si seguimos hablando de la **Game Boy**, veremos cómo sus siguientes versiones son cada vez más delgadas y pequeñas. Por ejemplo la *Pocket* estaba pensada para ser mucho más pequeña en sus tres dimensiones ofreciendo la misma calidad de la original y lo consiguió, aunque con menos duración de batería. Luego llegó la *Color* con su pantalla a color, pero también era más delgada y redondeada que el ladrillo gris original, haciéndola más cómoda y compacta.
 
 
 >Por esta época salió la Virtual Boy, que a nivel técnico es una consola portátil, pero era tan aparatosa que no se podía llevar a ningún lado. Ya hablaré de esta abominación de Nintendo en otro post. Por ahora solo hace falta saber que no era la portátil ideal.
@@ -33,5 +34,4 @@ Con la Steam Deck también llegaron más *ordenadores portátiles* de tamaños y
 
 A lo que quiero llegar con este eterno resumen de la história de las portátiles es que se está priorizando tanto la potencia que se está dejando de lado para lo que sirve una portátil: videojuegos que te caben en el bolsillo. No es necesariamente malo, ya que tampoco es un problema grave, puedes llevar una mochila y ya, pero cada vez este tipo de consolas son más difíciles de usar de forma cómoda, y con esto me refiero sobre todo al peso de la Steam Deck. Esa cosa es monstruosa.
 
-Pero bueno, ya veremos como sigue el negocio de las consolas portátiles que cada vez son más parecidas a consolas de sobremesa. ¡Hasta el próximo post!
-
+Pero bueno, ya veremos cómo sigue el negocio de las consolas portátiles que cada vez son más parecidas a consolas de sobremesa. ¡Hasta el próximo post!

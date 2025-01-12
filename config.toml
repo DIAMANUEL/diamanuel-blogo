@@ -84,6 +84,11 @@ disqusShortname = "Diamanuel"
     weight = 10
 
 [[menu.main]]
+    name = "Historial de cambios"
+    url = "page/changelog-page/"
+    weight = 10
+
+[[menu.main]]
     name = "Origenes"
     url = "page/origins/"
     weight = 10

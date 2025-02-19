@@ -1,7 +1,7 @@
 ---
 title: "¿Por qué Doom corre incluso en una tostadora?"
 date: 2024-02-23T17:00:35+02:00
-draft: false
+draft: true
 ---
 Hola, después de un laaargo mes aquí os traigo un nuevo post sobre Doom, el juego capaz de jugarse en cualquier aparato con pantalla.
 

@@ -83,6 +83,14 @@ disqusShortname = "Diamanuel"
     url = "page/about/"
     weight = 10
 
+    
+[[menu.main]]
+  name = "Política de Cookies"
+  url = "/politica-de-cookies/"
+  weight = 10
+
+
+
 [[menu.main]]
     name = "Historial de cambios"
     url = "page/changelog-page/"

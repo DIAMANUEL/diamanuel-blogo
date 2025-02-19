@@ -1,7 +1,7 @@
 ---
 title: "Especial Shinyfreeze 2022"
 date: 2022-12-25T17:00:35+02:00
-draft: false
+draft: true
 ---
 
 ¡FELIZ NAVIDAD! Espero que halláis disfrutado de vuestra familia y os halláis divertido cantando villancicos y comiendo turrones y polvorones.

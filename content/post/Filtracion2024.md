@@ -1,7 +1,7 @@
 ---
 title: "Se filtra Nintendo Direct en abril"
 date: 2024-04-06T17:00:35+02:00
-draft: false
+draft: true
 ---
 
 Hola. Hace un mes o así me enteré de que se habían filtrado los anuncios de un supuesto Nintendo Direct para el 18 de abril, pero se me olvidó mencionarlo.

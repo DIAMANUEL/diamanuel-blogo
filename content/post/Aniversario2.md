@@ -13,7 +13,7 @@ Sí, sobre todo los primeros, ya que al empezar el blog creía que un blog era u
 
 ***¿Te has propuesto crear otra web aparte del blogo?***
 
-Tengo proyectitos en desarrollo, que no se si se cancelarán o se llevarán a delante, pero en resumen sí. Un amigo y yo estamos planeando hacer un pódcast. Si se lleva a cabo os lo informaré por aquí. PD: los minijuegos técnicamente son webs aparte.
+Tengo proyectitos en desarrollo, que no sé si se cancelarán o se llevarán adelante, pero en resumen sí. Un amigo y yo estamos planeando hacer un podcast. Si se lleva a cabo os lo informaré por aquí. PD: los minijuegos técnicamente son webs aparte.
 
 ***¿Tienes pensado retirarte del blog dentro de poco?***
 
@@ -23,6 +23,8 @@ Hace no mucho renové el blog hasta 2025, así que habrá contenido asegurado ha
 
 Sé que lleva inactivo mucho tiempo, así que me planteé empezar a subir clips de Mario Kart, pero me daba pereza, y no tenía mucho tiempo. Por ahora sé que pronto tengo que actualizar el tráiler del blog.
 
-***¿Por qué quisiste empzar el blog?***
+***¿Por qué quisiste empezar el blog?***
 
-Antes del blog, cuando acababa de obtener el .tk, la web era una sencilla tarjeta de presentación mía. Ahí habían cosas aleatorias y así se quedó durante un año. Llegó un momento en el que mi profesor de informática me propuso hacer el blog, aunque no sabía ni lo que era en ese entonces. Pero, hey, ha sido de las mejores decisiones de mi vida. No solo me ayudó a aprender a expresar mis ideas de una forma organizada, sino también aprendí sobre web. Hoy en día la actualizo con el fin de que guste a la gente y se ha convertido en parte de mí.
+Antes del blog, cuando acababa de obtener el .tk, la web era una sencilla tarjeta de presentación mía. Ahí habían cosas aleatorias y así se quedó durante un año. Llegó un momento en el que mi profesor de informática me propuso hacer el blog, aunque no sabía ni lo que era en ese entonces. Pero, hey, ha sido de las mejores decisiones de mi vida. No solo me ayudó a aprender a expresar mis ideas de una forma organizada, sino también aprendí sobre la web. Hoy en día la actualizo con el fin de que guste a la gente y se ha convertido en parte de mí.
+
+

@@ -7,28 +7,31 @@
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <ul class="list-inline text-center footer-links">
           {{ range .Site.Data.beautifulhugo.social.social_icons }}
-            {{- if isset $.Site.Author .id }}
+            {{ if or (eq .id "email") 
+                      (eq .id "twitter") 
+                      (eq .id "youtube") 
+                      (eq .id "github") 
+                      (eq .id "itchio") 
+                      (eq .id "steam") }}
               <li>
-                <a href="{{ printf .url (index $.Site.Author .id) }}" title="{{ .title }}">
+                <a href="{{ printf .url .id }}" title="{{ .title }}">
                   <span class="fa-stack fa-lg">
                     <i class="fas fa-circle fa-stack-2x"></i>
                     <i class="{{ .icon }} fa-stack-1x fa-inverse"></i>
                   </span>
                 </a>
               </li>
-            {{- end -}}
-          {{ end }}
-          {{ if .Site.Params.rss }}
-          <li>
-            <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" title="RSS">
-              <span class="fa-stack fa-lg">
-                <i class="fas fa-circle fa-stack-2x"></i>
-                <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
+            {{ end }}
           {{ end }}
         </ul>
+
+        <!-- Aquí añades el enlace a la política de cookies -->
+        <ul class="list-inline text-center footer-links">
+          <li>
+            <a href="/politica-de-cookies/" title="Política de cookies">Política de Cookies</a>
+          </li>
+        </ul>
+
         <p class="credits copyright text-muted">
           {{ if .Site.Author.name }}
             {{ if .Site.Author.website }}
@@ -50,18 +53,24 @@
             <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
           {{ end }}
         </p>
-        <!-- Please don't remove this, keep my open source work credited :) -->
+
         <p class="credits theme-by text-muted">
           {{ i18n "poweredBy" . | safeHTML }}
           {{ if $.GitInfo }}&nbsp;&bull;&nbsp;[<a href="{{ .Site.Params.commit }}{{ .GitInfo.Hash }}">{{ substr .GitInfo.Hash 0 8 }}</a>]{{ end }}
         </p>
+
         <p class="credits theme-by text-muted">
-          ​😎 <strong>39 posts, 4 páginas y 5 minijuegos</strong> hechos hasta ahora con mucho esfuerzo ​😎
+          Hecho con amor desde 2022.
         </p>
       </div>
     </div>
   </div>
+  <!--<pre>{{ printf "%#v" .Site.Data.beautifulhugo.social.social_icons }}</pre>--> 
 </footer>
+
+
+
+
 
 {{- if .Site.Params.selfHosted -}}
 <script src="{{ "js/katex.min.js" | absURL }}"></script>
@@ -155,5 +164,7 @@ $(function(){
 </script>
 <script id="dsq-count-scr" src="//{{ .Site.DisqusShortname }}.disqus.com/count.js" async></script>
 <!-- End Delayed Disqus -->
+ 
 {{ end }}
 
+{{- partial "footer_custom.html" . }}

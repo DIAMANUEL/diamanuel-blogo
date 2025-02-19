@@ -8,7 +8,7 @@ Hola, en este post hablaré sobre las que son para mí las mejores consolas de s
 
 ***5- SNES ~ 1991***
 
-Esta es una icónica consola que fue pionera en la época de los 16 bits, y cuenta con algunas de las mejores joyas de Nintendo, como los Super Mario o Zelda. El mando introdujo los gatillos laterales, que hoy en día se han convertido en un estándar. En aquella época, era la máquina perfecta para hacer cualquier juego 2D. En América tuvo un diseó más cuadriculado y serio que en el resto del mundo.
+Esta es una icónica consola que fue pionera en la época de los 16 bits, y cuenta con algunas de las mejores joyas de Nintendo, como los Super Mario o Zelda. El mando introdujo los gatillos laterales, que hoy en día se han convertido en un estándar. En aquella época, era la máquina perfecta para hacer cualquier juego 2D. En América tuvo un diseño más cuadriculado y serio que en el resto del mundo.
 
 ***4- WII U ~ 2013***
 
@@ -20,10 +20,12 @@ Otra de las consolas menos vendidas, pero esta consola ha sido una de las que me
 
 ***2- WII ~ 2006***
 
-Una revolución, no solo por su nombre en clave (Revlution). Introdujo otro estándar a la industria siendo este el control por movimiento y aunque otras consolas anteriores ya tenían vibración, esta vez estaba integrado. El mando también incluía un altavoz para mayor ambiente. Esta consola continuó el objetivo de la DS: llegar a una audiencia menos gamer. Esta consola cuenta con joyazas como el mismísimo WII Sports Resort. Una maravilla.
+Una revolución, no solo por su nombre en clave (Revolution). Introdujo otro estándar a la industria siendo este el control por movimiento y aunque otras consolas anteriores ya tenían vibración, esta vez estaba integrado. El mando también incluía un altavoz para mayor ambiente. Esta consola continuó el objetivo de la DS: llegar a una audiencia menos gamer. Esta consola cuenta con joyazas como el mismísimo WII Sports Resort. Una maravilla.
 
 ***1- Nintendo Switch ~ 2017***
 
 La primera híbrida de Nintendo. Aunque tecnológicamente es una portátil, tiene la calidad de una Wii U y una gran potencia. Los joy-cons podían ser mejores, pero eran muy innovadores, con un sistema de raíl para acoplar y desacoplarlos a la consola. Contaban con vibración HD y una nueva función: capturas de pantalla.
 
 Espero que os haya gustado el post. ¡Hasta la próxima!
+
+

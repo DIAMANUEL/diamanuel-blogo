@@ -16,7 +16,7 @@ Una gran canción, que tiene una curiosa historia. Paul se despertó con esa mel
 
 ***4- Strawberry Fields Forever ~ Magical Mystery Tour 1967***
 
-Una profunda y psicodélica canción sobre la infancia de Jonh Lennon en los campos de fresas, que es un sitio real. Al principio iba a salir en el album *Srgt. Pepper's*, pero se descartó porque no pegaba con el tema del disco. Jonh y Paul no se decidían en el ritmo, así que por la segunda mitad algunos instrumentos van más rápido que otros.
+Una profunda y psicodélica canción sobre la infancia de Jonh Lennon en los campos de fresas, que es un sitio real. Al principio iba a salir en el álbum *Srgt. Pepper's*, pero se descartó porque no pegaba con el tema del disco. Jonh y Paul no se decidían en el ritmo, así que por la segunda mitad algunos instrumentos van más rápido que otros.
 
 ***3- For No One ~ Revolver 1966***
 
@@ -28,8 +28,10 @@ A diferencia de las anteriores, esta canción salió en un sencillo, que es un d
 
 ***1- A day in the life ~ Srg. Pepper's Lonely Hearts Club Band 1967***
 
-Una increíble canción sobre el día a día. Es muy buena por todos los toques que tiene, como cuando la banda se vuelve loca, el trozo a mitad que es como una historieta, o el acorde final, que se necesitaron 3 pianos para tocarlo, dándole un merecido buenísimo final a este gran album.
+Una increíble canción sobre el día a día. Es muy buena por todos los toques que tiene, como cuando la banda se vuelve loca, el trozo a mitad que es como una historieta, o el acorde final, que se necesitaron 3 pianos para tocarlo, dándole un merecido buenísimo final a este gran álbum.
 
 Ese ha sido mi top, y espero que os haya gustado este post. ¡Hasta el próximo!
+
+
 
 

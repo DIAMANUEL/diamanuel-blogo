@@ -1002,3 +1002,15 @@ footer .container {
   background-color: white !important;
   border-radius: 4px;
 }
+
+.cc-window {
+  font-size: 14px !important;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.cc-btn {
+  border-radius: 5px !important;
+  padding: 5px 15px;
+  font-weight: bold;
+}

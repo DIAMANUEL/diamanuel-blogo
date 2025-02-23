@@ -84,22 +84,22 @@ disqusShortname = "Diamanuel"
     weight = 10
 
     
-[[menu.main]]
-  name = "Política de Cookies"
-  url = "/politica-de-cookies/"
-  weight = 10
+# [[menu.main]]
+ # name = "Política de Cookies"
+ # url = "/politica-de-cookies/"
+ # weight = 10
 
 
 
 [[menu.main]]
-    name = "Historial de cambios"
-    url = "page/changelog-page/"
+    name = "Novedades"
+    url = "page/news/"
     weight = 10
 
-[[menu.main]]
-    name = "Origenes"
-    url = "page/origins/"
-    weight = 10
+#[[menu.main]]
+ #   name = "Origenes"
+  #  url = "page/origins/"
+   # weight = 10
 
 [[menu.main]]
     name = "   "
@@ -107,14 +107,14 @@ disqusShortname = "Diamanuel"
     weight = 15
 
 [[menu.main]]
-    name = "Minijuegos"
-    url = "page/minigames/"
+    name = "Extras"
+    url = "page/extras/"
     weight = 10
 
-[[menu.main]]
-    name = "Contáctame"
-    url = "page/contact-me/"
-    weight = 10
+# [[menu.main]]
+   # name = "Contáctame"
+  #  url = "page/contact-me/"
+ #   weight = 10
 
 # [[menu.main]]
  #   identifier = "samples"

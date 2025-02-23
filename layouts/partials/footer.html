@@ -6,29 +6,53 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <ul class="list-inline text-center footer-links">
-          {{ range .Site.Data.beautifulhugo.social.social_icons }}
-            {{ if or (eq .id "email") 
-                      (eq .id "twitter") 
-                      (eq .id "youtube") 
-                      (eq .id "github") 
-                      (eq .id "itchio") 
-                      (eq .id "steam") }}
-              <li>
-                <a href="{{ printf .url .id }}" title="{{ .title }}">
-                  <span class="fa-stack fa-lg">
-                    <i class="fas fa-circle fa-stack-2x"></i>
-                    <i class="{{ .icon }} fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-            {{ end }}
-          {{ end }}
-        </ul>
-
-        <!-- Aquí añades el enlace a la política de cookies -->
-        <ul class="list-inline text-center footer-links">
           <li>
-            <a href="/politica-de-cookies/" title="Política de cookies">Política de Cookies</a>
+            <a href="mailto:diamanuel@pm.me" title="Email">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          <li>
+            <a href="https://twitter.com/DIAMANUELcom" title="Twitter">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/@diamanuel" title="YouTube">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-youtube fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/DIAMANUEL" title="GitHub">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          <li>
+            <a href="https://diamanuel.itch.io/" title="Itch.io">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-itch-io fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          <li>
+            <a href="https://steamcommunity.com/id/diamanuel" title="Steam">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-steam fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
           </li>
         </ul>
 
@@ -65,8 +89,9 @@
       </div>
     </div>
   </div>
-  <!--<pre>{{ printf "%#v" .Site.Data.beautifulhugo.social.social_icons }}</pre>--> 
 </footer>
+
+
 
 
 

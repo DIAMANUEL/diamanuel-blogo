@@ -14,3 +14,5 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 >Algunos posts ocultados por no ser relevantes a día de hoy. Corregidos fallos de ortografía. Cambios en la página de minijuegos. Nuevo sistema de cookies. === 21/02/2025
 
 >Corrección de iconos sociales Reorganización de páginas:  Contáctame y Historial de cambios --> Novedades   Orígenes --> Sobre mí    Minijuegos --> Extras === 23/02/2025
+
+>

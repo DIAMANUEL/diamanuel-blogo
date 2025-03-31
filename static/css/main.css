@@ -6,7 +6,7 @@ body {
   color: #404040;
   position: relative;
   /* background-color: #FFF; */
-  background-image: url(../img/Backgrounds/nubes-avatars-BIG);
+  background-image: url(../img/Backgrounds/nubes-avatars-BIG.png);
   /* Prueba Danilleo */
   display: flex;
   flex-flow: column;

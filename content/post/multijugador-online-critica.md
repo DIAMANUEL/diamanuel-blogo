@@ -1,7 +1,7 @@
 ---
 title: "Por qué los juegos multijugador en línea no son buenos para la indústria"
-date: 2025-04-10T17:00:35+02:00
-draft: true
+date: 2025-04-11T00:00:35+02:00
+draft: false
 ---
 
 Todos conocemos los juegos multijugador en línea. Si los llamo así a lo mejor no, pero videojuegos como Fortnite, Brawl Stars, Overwatch y parecidos lo son.
@@ -36,7 +36,7 @@ El tema de los juegos Free to Play y su orígen lo tengo que escribir en otro po
 
 -FIFA no solo ya es de pago, sino que además tiene su propia moneda ficticia para comprar sobres con jugadores aleatorios. Realmente es horroroso cómo puede un juego de  más de 70€ (sin contar webs como Amazon que suele estar mucho más barato) que sale cada año un poco cambiado tener prácticas tan anti consumidoras. Imagínate pagar el juego y luego para tener posibilidad de jugar bien tengas que seguir pagando por la posibilidad: repito, **por la posibilidad** de que te salga un jugador mejor.
 
-## Resumen
+***En resumen***
 
 Aunque este tipo de juegos son divertidos para jugar con amigos, tenemos que pensar de forma más abierta, que tener el pase al 100 a lo mejor no es una inversión de tiempo tan productiva como pensamos. Existen infinidad de juegos, muchos siendo verdaderas obras de arte, a los cuales podríamos estar dedicando el mismo tiempo que a Counter Strike, Brawl Stars, etc. sintiéndonos más llenos.
 

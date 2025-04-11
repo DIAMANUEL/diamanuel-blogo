@@ -16,8 +16,8 @@ disqusShortname = "Diamanuel"
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "Buen gamer, mejor bloguero."
   mainSections = ["post","posts"]
-  logo = "img/Avatars/avatar-nubes.png" # Expecting square dimensions
-  favicon = "img/Other/avatar-favicon.ico"
+  logo = "img/Other/.png" # Expecting square dimensions
+  favicon = "img/Other/favicon-blue.ico"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
@@ -111,10 +111,10 @@ disqusShortname = "Diamanuel"
     url = "page/minigames/"
     weight = 10
 
-    [[menu.main]]
-    name = "¡Encuesta mensual!"
-    url = "page/survey/"
-    weight = 10
+ #   [[menu.main]]
+  #  name = "¡Encuesta mensual!"
+   # url = "page/survey/"
+    #weight = 10
 
 # [[menu.main]]
    # name = "Contáctame"

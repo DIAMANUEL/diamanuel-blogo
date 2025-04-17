@@ -14,7 +14,7 @@ disqusShortname = "Diamanuel"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Buen gamer, mejor bloguero."
+  subtitle = "Posts brillantes como un diamante"
   mainSections = ["post","posts"]
   logo = "img/Other/favicon-blue.png" # Expecting square dimensions
   favicon = "img/Other/favicon-blue.ico"

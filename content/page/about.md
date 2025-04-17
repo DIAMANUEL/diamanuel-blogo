@@ -36,4 +36,4 @@ El 8 de julio de 2022 subí mi último juego a **Scratch**: [Food Clicker 2: the
 
 Esta web se llama diamanuel blogo por mi nickname *DIAMANUEL* y por el súper clásico meme del *doge*.
 
-Gracias por leer, disfruta del blogo xD.
+Gracias por leer, disfruta del blogo.

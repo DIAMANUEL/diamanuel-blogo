@@ -1,7 +1,7 @@
 ---
 title: "Todos los modelos de 3DS expliados"
-date: 2025-05-04T17:00:35+02:00
-draft: true
+date: 2025-05-11T17:00:35+02:00
+draft: false
 ---
 Probablemente últimamente hayas visto que la 3DS se ha vuelto a popularizar. Sus juegos, su portabilidad y la nostalgia han hecho que los jugadores se interesen por ella. Es posible que te estés pensando comprar una, pero... ¿La normal, la XL, la XL sin el 3D, la XL nueva o la XL nueva sin 3D?
 

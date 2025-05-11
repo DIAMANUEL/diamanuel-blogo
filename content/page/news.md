@@ -18,3 +18,5 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 >Rediseño a algunas imágenes y algún que otro cambio menor más. 12/04/2025
 
 >Nuevo subtítulo en el menú principal. 17/04/2025
+
+>Nuevo post. 11/05/2025

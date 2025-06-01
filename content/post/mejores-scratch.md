@@ -1,7 +1,7 @@
 ---
 title: "Mis mejores juegos de Scratch"
 date: 2023-03-10T17:00:35+02:00
-draft: true
+draft: false
 ---
 
 Hola, el post de aniversario fue demasiado corto así que aquí estoy otra vez para enseñaros mis mejores juegos de Scratch, la plataforma con la que me impulsé para entrar en este mundillo que es el gaming y la programación. Iré de *"menos mejor"* a mejor

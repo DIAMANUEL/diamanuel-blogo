@@ -59,3 +59,5 @@ Siendo sincero, el concepto no suena mal del todo, pero la ejecución fue horrib
 Los juegos eran muy pobres, solo había cinco y el escaneo de tarjetas era pesado provocando una experiencia de juego nada fluida; Los componentes eran malos, de baja calidad y nada atractivos para alguien que le interese la potencia. Ni siquiera Mattel se esforzó en publicitar su consola, bajando más todavía la expectación y la gente que esperaba esta consola.
 
 
+
+

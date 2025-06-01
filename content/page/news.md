@@ -20,3 +20,5 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 >Nuevo subtítulo en el menú principal. 17/04/2025
 
 >Nuevo post. 11/05/2025
+
+>Corregida ortografía, cambios varios de aspecto a la página principal y al 404 y nuevo post. 31/05/2025

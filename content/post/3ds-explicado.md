@@ -11,7 +11,7 @@ No te preocupes si no conoces todas estas versiones, en este post intentaré exp
 
 ![3ds](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nintendo-3DS-AquaOpen.png/1200px-Nintendo-3DS-AquaOpen.png)
 
-Esta fue la que lo empezó todo. En su lanzamiento triumfó, pero al poco tuvieron que bajar el precio para seguir vendiendo. Es del tamaño de una DS Lite, por lo que el efecto 3D de la pantalla se ve bastante mal. Es una opción relativamente barata si no la vas a usar demasiado pero te gusta el 3D.
+Esta fue la que lo empezó todo. En su lanzamiento triunfó, pero al poco tuvieron que bajar el precio para seguir vendiendo. Es del tamaño de una DS Lite, por lo que el efecto 3D de la pantalla se ve bastante mal. Es una opción relativamente barata si no la vas a usar demasiado pero te gusta el 3D.
 
 ***3DS XL ~ 2012***
 
@@ -37,7 +37,9 @@ Esta es la versión definitiva de la consola tridimensional. La más grande, la 
 
 Si no quieres pagar +290€ por una DS 3D, puedes pillar una New 2DS XL por bastante menos. Es lo mismo que la anterior pero sin 3D. Salió después de la Switch, por lo que es la más olvidada. En mi opinión, esta es la mejor opción calidad-precio.
 
-Estas han sido todas las versiones de 3DS/2DS que han salido, con sus características. Espero que os haya sido útil y hos haya hecho la vida más fácil. ¡Hasta la próxima!
+Estas han sido todas las versiones de 3DS/2DS que han salido, con sus características. Espero que os haya sido útil y os haya hecho la vida más fácil. ¡Hasta la próxima!
+
+
 
 
 

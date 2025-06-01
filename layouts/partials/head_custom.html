@@ -63,4 +63,19 @@
       document.getElementById('cookie-banner').style.display = 'none';
     };
   };
+
+  (function() {
+    const konamiCode = [38,38,40,40,37,39,37,39]; 
+    let input = [];
+
+    window.addEventListener('keydown', function(e) {
+      input.push(e.keyCode);
+      if (input.toString().includes(konamiCode.toString())) {
+        alert("diamanuel.com/page/secretpage");
+        input = []; //
+      }
+      if (input.length > konamiCode.length) input.shift();
+    });
+  })();
+
 </script>

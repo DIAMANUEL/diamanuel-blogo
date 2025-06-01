@@ -6,11 +6,11 @@ draft: false
 
 Todos conocemos los juegos multijugador en línea. Si los llamo así a lo mejor no, pero videojuegos como Fortnite, Brawl Stars, Overwatch y parecidos lo son.
 
->Antes de comenzar me gustaría comunicar una cosa: puede que os hayáis dado cuenta de que he cambiado algunas cosas a nivel estético. Esto no afectará al contenido, solo era que después de 3 años ya se quedaban viejos algunos gráficos. Si os gustaba mi icono, sigue estando en la sección Sobre Mí. PD: Seguiran habiendo fondos personalizados, haré que funcione.
+>Antes de comenzar me gustaría comunicar una cosa: puede que os hayáis dado cuenta de que he cambiado algunas cosas a nivel estético. Esto no afectará al contenido, solo era que después de 3 años ya se quedaban viejos algunos gráficos. Si os gustaba mi icono, sigue estando en la sección Sobre Mí. PD: Seguirán habiendo fondos personalizados, haré que funcione.
 
 Los *MOG* (Multiplayer Online Game, o Juego Multijugador en línea) surgieron en los 90 con juegos como DOOM, pero sobre todo se popularizaron a partir de más o menos el 2010. Hoy en día este género predomina como uno de los más populares entre los jugadores gracias a su rejugabilidad, partidas constantes y competitividad. Aunque son muy divertidos, de una forma u otra están haciéndole daño a la industria, pero nadie quiere aceptarlo.
 
-Por ello en este post voy a ennumerar algunas de las razones por las que creo que a largo plazo podrían perjudicar a sus usuarios y condicionar a las desarrolladoras.
+Por ello en este post voy a enumerar algunas de las razones por las que creo que a largo plazo podrían perjudicar a sus usuarios y condicionar a las desarrolladoras.
 
 ## Jugadores tóxicos
 
@@ -18,7 +18,7 @@ Todos hemos conocido (o hemos sido) un jugador tóxico. Ya sabéis, el típico E
 
 ## Condicionamiento a la industria
 
-A ver, en realidad tanto no afecta, pero a algunas desarrolladoras sí que puede perjudicar. Como he mencionado, este tipo de juegos on muy populares, pero además, son gratuitos. Si un niño rata ve un juego de pago, a lo mejor no lo compra por muy bueno que sea o ni lo juega porque ya gasta 6h al día en Fortnite.
+A ver, en realidad tanto no afecta, pero a algunas desarrolladoras sí que puede perjudicar. Como he mencionado, este tipo de juegos son muy populares, pero además, son gratuitos. Si un niño rata ve un juego de pago, a lo mejor no lo compra por muy bueno que sea o ni lo juega porque ya gasta 6h al día en Fortnite.
 
 Los juegos online están quitando mucho público a otros juegos solo por no ser juegos online.
 
@@ -41,6 +41,8 @@ El tema de los juegos Free to Play y su orígen lo tengo que escribir en otro po
 Aunque este tipo de juegos son divertidos para jugar con amigos, tenemos que pensar de forma más abierta, que tener el pase al 100 a lo mejor no es una inversión de tiempo tan productiva como pensamos. Existen infinidad de juegos, muchos siendo verdaderas obras de arte, a los cuales podríamos estar dedicando el mismo tiempo que a Counter Strike, Brawl Stars, etc. sintiéndonos más llenos.
 
 Le he dedicado un poco más de 25h a Portal 1 y 2 en total y siento que han sido de las mejores experiencias del gaming que he tenido nunca. Hasta la próxima, y Nintendo: baja tus precios.
+
+
 
 
 

@@ -3,20 +3,32 @@
   <div role="main" class="container main-content">
     <div class="diamanuel">
     <div class="text-center">
-      <h1 class="error-emoji"></h1>
-      <img src="../static/img/Other/hog-rana.gif" alt="This guy its a character from Clash Royale">
-      <h2>¡OH NO! La página que buscabas no existe. ¿Está bien escrita la URL?</h2>
       <p class="error-text">{{ i18n "pageNotFound" }}</p>
+      <h1 class="error-emoji"></h1>
+      <img src="https://media.tenor.com/bVf1Mw0xe4gAAAAj/excited-shouting.gif" alt="This guy its a character from Clash Royale">
+      <h2>La página que buscabas no existe. ¿Está bien escrita la URL?</h2>
+     
     </div>
   </div>
   </div>
-<script>
+<!-- <script>
   var errorEmojiContainer = document.getElementsByClassName('error-emoji')[0];
   var emojiArray = [
-    '\\(o_o)/', '(o^^)o', '(˚Δ˚)b', '(^-^*)', '(≥o≤)', '(^_^)b', '(·_·)',
+   '\\(o_o)/', '(o^^)o', '(˚Δ˚)b', '(^-^*)', '(≥o≤)', '(^_^)b', '(·_·)',
     '(=\'X\'=)', '(>_<)', '(;-;)', '\\(^Д^)/',
   ];
   var errorEmoji = emojiArray[Math.floor(Math.random() * emojiArray.length)];
   errorEmojiContainer.appendChild(document.createTextNode(errorEmoji));
+</script>-->
+
+<script>
+  var errorEmojiContainer = document.getElementsByClassName('error-emoji')[0];
+  var emojiArray = [
+   'Eso no ha sido muy sigma...', 'Bro got cooked 💀 ', 'Ni los Illuminati encontraron esa página', 'This is fine 🔥', 'Bruh', 'Tenías un solo trabajo', 'The link is a lie',
+    'diamanuel_blogo.exe te observa o_0', 'Esa URL era el impostor', 'la dirección no era supereficaz', 'Esta URL se ha ido a por leche',
+  ];
+  var errorEmoji = emojiArray[Math.floor(Math.random() * emojiArray.length)];
+  errorEmojiContainer.appendChild(document.createTextNode(errorEmoji));
 </script>
+
 {{ end }}

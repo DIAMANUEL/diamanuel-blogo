@@ -14,17 +14,17 @@ Este primer post será sobre probablemente el grupo de música más importante d
 
 Una gran canción, que tiene una curiosa historia. Paul se despertó con esa melodía en la cabeza pensando que era de otra canción. En el proceso de creación al principio iba a ir sobre huevos revueltos, ya que supongo que fue lo que desayunó ese día.
 
-***4- Strawberry Fields Forever ~ Magical Mystery Tour 1967***
+***4- Something ~ Abbey Road 1969***
 
-Una profunda y psicodélica canción sobre la infancia de Jonh Lennon en los campos de fresas, que es un sitio real. Al principio iba a salir en el álbum *Srgt. Pepper's*, pero se descartó porque no pegaba con el tema del disco. Jonh y Paul no se decidían en el ritmo, así que por la segunda mitad algunos instrumentos van más rápido que otros.
+Esta es una de las mejores canciones de Abbey Road. Muy harmónica, limpia y en resumen, una verdadera obra de arte. George componía poco, pero cuando lo hacía... ¡Buf!
 
-***3- For No One ~ Revolver 1966***
-
-Esta canción la descubrí *scroleando* por el canal de los Beatles y me encantó. Pegadiza, sencilla pero muy buena.
-
-***2- Hey Jude ~ Cara B de Revolution***
+***3- Hey Jude ~ Cara A de Revolution***
 
 A diferencia de las anteriores, esta canción salió en un sencillo, que es un disco que tenía una canción en cada cara. La canción va dirigida al hijo de Lennon, y es la más larga del grupo.
+
+***2- Strawberry Fields Forever ~ Magical Mystery Tour 1967***
+
+Una profunda y psicodélica canción sobre la infancia de Jonh Lennon en los campos de fresas, que es un sitio real. Al principio iba a salir en el álbum *Srgt. Pepper's*, pero se descartó porque no pegaba con el tema del disco. Jonh y Paul no se decidían en el ritmo, así que por la segunda mitad algunos instrumentos van más rápido que otros.
 
 ***1- A day in the life ~ Srg. Pepper's Lonely Hearts Club Band 1967***
 

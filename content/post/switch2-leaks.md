@@ -4,7 +4,7 @@ date: 2025-01-12T00:00:35+02:00
 draft: false
 ---
 ![meme](https://i.pinimg.com/originals/f9/5a/32/f95a322659e52676449cfb96caa025ae.jpg)
-Después de tanto tiempo he vuelto para un nuevo post sobre laas filtraciones de la inminente Nintendo Switch 2.
+Después de tanto tiempo he vuelto para un nuevo post sobre las filtraciones de la inminente Nintendo Switch 2.
 
 >Primero que nada me gustaría recordar que voy a hacer un post especial de mejor post del año. si quieres responderlo puedes clickar en estas [palabritas](https://forms.gle/ZHonFigZJUi8g94WA) azules
 

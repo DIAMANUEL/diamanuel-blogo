@@ -39,5 +39,13 @@ function cargarHeapAnalytics() {
             heap[p[o]] = n(p[o])
     };
 
-    heap.load("2753226682"); // 🔥 Reemplaza con tu App ID
+    heap.load("2753226682"); // Tu App ID
+
+    // Aquí hacemos la identificación personalizada:
+    const urlParams = new URLSearchParams(window.location.search);
+    const user = urlParams.get('user');
+    if (user) {
+        heap.identify(user);
+    }
 }
+

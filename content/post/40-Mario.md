@@ -7,17 +7,17 @@ Hola, he vuelto con un post que hablará sobre algo que no he visto que nadie ha
 
 Fue hace casi 40 años que el primer juego de **Super** Mario Bros. (no confundir con Mario Bros. a secas) salió a la venta, y fue un éxito total como sabemos hoy en día. Durante estos años, se han celebrado diversos aniversarios, todos con algún objeto/juego conmemorativo para homenajear al personaje más importante de los videojuegos. Sin embargo, este año es el 40 aniversario y todavía Nintendo no se ha pronunciado al respecto de qué van a hacer este año. Ni siquiera durante el *Mar10 Day*.
 
-Sinceramente, no creo que no vayan a hacer nada, pero me sorprende que estando ya en junio no hayan dicho absolutamente nada al respecto. Sobre todo, que hayan anunciado un juego para Donkey Kong, pero nada relacionado al propio Mario (a excepción del Mario Kart). Ni imagen promocional, ni anuncio, ni siquiera un *twit* acerca de el cumpleaños de su mayor vende-consolas.
+Sinceramente, no creo que no vayan a hacer nada, pero me sorprende que estando ya en junio no hayan dicho absolutamente nada al respecto. Sobre todo, que hayan anunciado un juego para Donkey Kong, pero nada relacionado al propio Mario (a excepción del Mario Kart). Ni imagen promocional, ni anuncio, ni siquiera un *twit* acerca del cumpleaños de su mayor vende-consolas.
 
 Por eso, voy a repasar lo mejor de cada aniversario desde el 20º Aniversario, que fue el primero que se celebró por Nintendo más a lo grande.
 
 ## 20º Aniversario - 2005
 
-Durante este aniversario no pasó mucho fuera de Japón, pero al menos sí recibimos una ediciñon especial de Game Boy Micro, y por descarte tengo que elegir esta cosa como lo mejor de ese aniversario. También sacaron el Super Mario de NES para Game Boy Advance.
+Durante este aniversario no pasó mucho fuera de Japón, pero al menos sí recibimos una edición especial de Game Boy Micro, y por descarte tengo que elegir esta cosa como lo mejor de ese aniversario. También sacaron el Super Mario de NES para Game Boy Advance.
 
 ## 25º Aniversario - 2010
 
-En este sí que se hizo algo más digno de la figura que es Mario. Sacaron ediciones especiales de Wii (que solo era roja) y de DSi XL (que no solo era roja, tenía algunos power-ups y un texto conmemorativo). Pero, otra vez por descarte lo mejor es el port de Super Mario All-Stars de SNES a Wii. No tenía ninguna clase de mejora, era el mismo juego pero ahora en Wii. Lo que lo hacía especial era lapresentación del juego en sí, con su caja roja con el logo del 25º aniversario en el centro, la cual contenía el propio juego con una imagen de una especie de moneda con la cara de Mario y otra caja con un libreto de la historia de Mario y otro disco con la banda sonora.
+En este sí que se hizo algo más digno de la figura que es Mario. Sacaron ediciones especiales de Wii (que solo era roja) y de DSi XL (que no solo era roja, tenía algunos power-ups y un texto conmemorativo). Pero, otra vez por descarte, lo mejor es el port de Super Mario All-Stars de SNES a Wii. No tenía ninguna clase de mejora, era el mismo juego pero ahora en Wii. Lo que lo hacía especial era la presentación del juego en sí, con su caja roja con el logo del 25º aniversario en el centro, la cual contenía el propio juego con una imagen de una especie de moneda con la cara de Mario y otra caja con un libreto de la historia de Mario y otro disco con la banda sonora.
 
 ## 30º Aniversario - 2015
 
@@ -25,7 +25,7 @@ Este fue el primero que viví como tal, antes solo jugaba a la Wii y no miraba I
 
 ## 35º Aniversario - 2020
 
-Este, en mi opinió, no estubo mal, pero podría haber sido mucho mejor si se hubieran tomado un par de decisiones mejor. Lo más destacado son los juegos que salieron para conmemorar al fontanero, cada uno con sus pegas:
+Este, en mi opinión, no estuvo mal, pero podría haber sido mucho mejor si se hubieran tomado un par de decisiones mejor. Lo más destacado son los juegos que salieron para conmemorar al fontanero, cada uno con sus pegas:
 
     -Super Mario 3D All-Stars: Una colección que habría sido una locura si hubiese tenido Mario Galaxy 2 y un precio algo inferior
 

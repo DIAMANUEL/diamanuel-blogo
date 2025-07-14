@@ -32,8 +32,8 @@ Poco a poco iba creciendo mi habilidad y un día, decidí crearme una cuenta de 
 
 Antes de crear el blog, hice una web cutre donde me presentaba como un gamer fan de Mario. Como ya había escrito en Wordpress, me propuse crear este blog para aprender.
 
-El 8 de julio de 2022 subí mi último juego a **Scratch**: [Food Clicker 2: the last stock!](https://scratch.mit.edu/projects/712767390/) 
+A fecha en que estoy escribiendo esto recibo unas 38 visitas al mes y mi post más popular es el de los modelos de Game Boy con 46 visitas.
 
-Esta web se llama diamanuel blogo por mi nickname *DIAMANUEL* y por el súper clásico meme del *doge*.
+Esta web se llama DIAMANUEL BLOGO por mi nickname *DIAMANUEL* y por el súper clásico meme del *doge*.
 
 Gracias por leer, disfruta del blogo.

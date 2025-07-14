@@ -24,3 +24,5 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 >Corregida ortografía, cambios varios de aspecto a la página principal y al 404 y nuevo post. También he publicado un post que se me olvidó publicar hae tiempo. 13/06/2025
 
 >Nuevo post. 02/07/2025
+
+>Cambios en el fondo y algunos iconos. 14/07/2025

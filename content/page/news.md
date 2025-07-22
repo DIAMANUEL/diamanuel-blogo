@@ -26,3 +26,5 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 >Nuevo post. 02/07/2025
 
 >Cambios en el fondo y algunos iconos. 14/07/2025
+
+>Cambios en el fondo y nuevo post. 22/07/2025

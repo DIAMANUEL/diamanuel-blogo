@@ -6,7 +6,7 @@ draft: false
 
 Hola, en este post estaré analizando los juegos con más nota de Metacritic para averiguar qué año fue el más cargado de juegazos. Tendré en cuenta los mejores 50 juegos según Metacritic y a partir de ahí haré la media de todos los años que aparezcan y si hay algo interesante que mencionar, lo haré.
 
-He tenido que analizar bastantes juegos, así que más os vale leer este post hasta el final, jeje. Por suerte para vosotros, los que tenéis vida, le he pedido a mi ayudante ChatGPT que haga una lista de menos a más nota media sencilla para los que solo quieran scrollear rápidamente. Finalmente, haré reflexiones de los años más curiosos.
+He tenido que analizar bastantes juegos, así que más os vale leer este post hasta el final, jeje. Por suerte para vosotros, los que tenéis vida, le he pedido a mi ayudante Chat GPT que haga una lista de menos a más nota media sencilla para los que solo quieran scrollear rápidamente. Finalmente, haré reflexiones de los años más curiosos.
 
 |  Año  | Nota Media | Juego Mejor Valorado                           |
 | :---: | :--------: | :--------------------------------------------- |
@@ -67,7 +67,7 @@ Esos son los datos generales, ahora haré una reflexión más detallada de los a
 
 ## 1996
 
-Antes de nada, con lo que voy a decir no quiero decir que los tres juegos con mejor nota de 1996 sean poco merecedores de ese puesto, pero... ¿Cómo es que no están Super Mario 64 o Tomb Raider? No es que no esten entre esos tres, es que ni estan en el top 50. Me parece un timo en especial el Mario 64.
+Antes de nada, con lo que voy a decir no quiero decir que los tres juegos con mejor nota de 1996 sean poco merecedores de ese puesto, pero... ¿Cómo es que no están Super Mario 64 o Tomb Raider? No es que no estén entre esos tres, es que ni están en el top 50. Me parece un timo en especial el Mario 64.
 
 ## 1997
 
@@ -93,11 +93,11 @@ Este año fue marcado por la pandemia, porque si muchos juegos no se hubieran at
 
 - Los únicos juegos completos del top 50 que no son *"Must Play"* son *The House in Fata Morgana: Dreams of the Revenants*, *The Legend of Zelda: Tears of the Kingdom* y *Gran Turismo*. En el caso del Zelda, no creo que no pertenezca a esta categoría, por lo que en el futuro podría cambiar.
 
-Menciónes especiales a grandes juegos que rozaron el top 50 por poco: *Portal 2*, *Elder Ring* y *Astro Bot*.
+Menciones especiales a grandes juegos que rozaron el top 50 por poco: *Portal 2*, *Elder Ring* y *Astro Bot*.
 
 
 En resumen, teniendo en cuenta la tabla y la nota media de cada año, podemos llegar a la conclusión de que (según Metacritic) los mejores años para los videojuegos fueron 2015 y 2017, y poniéndome a pensar, estoy de acuerdo y tiene sentido.
 
-2015, en general, estuvo repleto de grandes joyas como *Undertale*, *Fall Out 4*, *Ori and the Blind Forest* o incluso *Rocket League*. En cuanto 2017, como dije, fue cuando salió la Switch y recuerdo que ese año los videojuegos explotaron en todos los sentido (menos literalmente, claro).
+2015, en general, estuvo repleto de grandes joyas como *Undertale*, *Fallout 4*, *Ori and the Blind Forest* o incluso *Rocket League*. En cuanto a 2017, como dije, fue cuando salió la Switch y recuerdo que ese año los videojuegos explotaron en todos los sentidos (menos literalmente, claro).
 
 Espero que este post os haya parecido cuanto menos interesante o útil si tenéis pensado usar esta información para algo, porque he tardado mucho en hacerlo (por eso el ligero retraso para subirlo). ¡Hasta el próximo post!

@@ -29,4 +29,4 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 
 >Cambios en el fondo y nuevo post. 22/07/2025
 
->Nuevo post. 06/08/2025
+>Nuevo post y arreglo en las letras DM. 06/08/2025

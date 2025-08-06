@@ -1,6 +1,6 @@
 ---
 title: "Diccionario de Tik Tok I"
-date: 2024-08-06T17:00:35+02:00
+date: 2025-08-06T17:00:35+02:00
 draft: false
 ---
 TikTok es la red social con más influencia e importancia entre los jóvenes. La generación Z siempre hemos sido (prácticamente) la única generación activa en Internet, pero con el pasar de los años, estamos viendo que cada vez más la nueva generación *alfa* está abriendose paso por las plataformas digitales.

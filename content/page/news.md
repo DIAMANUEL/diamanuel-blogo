@@ -7,13 +7,13 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 
 ### Historial de cambios (desde 2025).
 
->Página de cambios y nuevo post ==== 12/01/2025
+>Página de cambios y nuevo post. 12/01/2025
 
->Nuevo post y fechas en la página de cambios === 27/01/2025
+>Nuevo post y fechas en la página de cambios. 27/01/2025
 
->Algunos posts ocultados por no ser relevantes a día de hoy. Corregidos fallos de ortografía. Cambios en la página de minijuegos. Nuevo sistema de cookies. === 21/02/2025
+>Algunos posts ocultados por no ser relevantes a día de hoy. Corregidos fallos de ortografía. Cambios en la página de minijuegos. Nuevo sistema de cookies. 21/02/2025
 
->Corrección de iconos sociales Reorganización de páginas:  Contáctame y Historial de cambios --> Novedades   Orígenes --> Sobre mí    Minijuegos --> Extras === 23/02/2025
+>Corrección de iconos sociales Reorganización de páginas:  Contáctame y Historial de cambios --> Novedades   Orígenes --> Sobre mí    Minijuegos --> Extras. 23/02/2025
 
 >Rediseño a algunas imágenes y algún que otro cambio menor más. 12/04/2025
 
@@ -21,7 +21,7 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 
 >Nuevo post. 11/05/2025
 
->Corregida ortografía, cambios varios de aspecto a la página principal y al 404 y nuevo post. También he publicado un post que se me olvidó publicar hae tiempo. 13/06/2025
+>Corregida ortografía, cambios varios de aspecto a la página principal y al 404 y nuevo post. También he publicado un post que se me olvidó publicar haCe tiempo. 13/06/2025
 
 >Nuevo post. 02/07/2025
 

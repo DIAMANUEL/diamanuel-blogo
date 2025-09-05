@@ -32,3 +32,5 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 >Nuevo post y arreglo en las letras DM. 06/08/2025
 
 >Nuevo post. 25/08/2025
+
+>Nuevo avatar. 05/09/2025

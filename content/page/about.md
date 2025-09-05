@@ -4,7 +4,7 @@ subtitle: Conóceme
 comments: true
 ---
 
-![demo](/img/avatars/avatar-icon-remaster.png)
+![demo](/img/Avatars/avatar-icon-remake-remake.png)
 
 Hola, soy Manuel, pero me he apodado DIAMANUEL por diamante 💎 y mi nombre.
 

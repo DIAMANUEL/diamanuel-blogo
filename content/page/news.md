@@ -36,3 +36,5 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 >Nuevo avatar. 05/09/2025
 
 >Nuevo post. 09/09/2025
+
+>Soporte para PWA. 30/09/2025

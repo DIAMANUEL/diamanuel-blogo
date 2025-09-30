@@ -1,6 +1,7 @@
-  {{ if eq .Type "page" }}
-    {{ partial "page_meta.html" . }}
-  {{ end }}
+```html
+{{ if eq .Type "page" }}
+  {{ partial "page_meta.html" . }}
+{{ end }}
 <footer>
   <div class="container">
     <div class="row">
@@ -91,12 +92,6 @@
   </div>
 </footer>
 
-
-
-
-
-
-
 {{- if .Site.Params.selfHosted -}}
 <script src="{{ "js/katex.min.js" | absURL }}"></script>
 <script src="{{ "js/auto-render.min.js" | absURL }}"></script>
@@ -160,9 +155,9 @@
   })();
 </script>
 <noscript>
-<!-- Piwik Image Tracker -->
-<img src="http://{{ .Site.Params.piwik.server }}/piwik.php?idsite={{ .Site.Params.piwik.id }}&amp;rec=1" style="border:0" alt="" />
-<!-- End Piwik -->
+  <!-- Piwik Image Tracker -->
+  <img src="http://{{ .Site.Params.piwik.server }}/piwik.php?idsite={{ .Site.Params.piwik.id }}&amp;rec=1" style="border:0" alt="" />
+  <!-- End Piwik -->
 </noscript>
 <!-- End Piwik Code -->
 {{ end }}
@@ -173,7 +168,6 @@
 $(function(){
   $('#show-comments').on('click', function(){
     var disqus_shortname = '{{ .Site.DisqusShortname }}';
-      
     (function() {
       var disqus = document.createElement('script'); 
       disqus.type = 'text/javascript'; 
@@ -181,15 +175,28 @@ $(function(){
       disqus.src = '//' + disqus_shortname + '.disqus.com/embed.js';
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(disqus);
     })();
-      
     $(this).hide(); 
-    });
   });
-      
+});
 </script>
 <script id="dsq-count-scr" src="//{{ .Site.DisqusShortname }}.disqus.com/count.js" async></script>
 <!-- End Delayed Disqus -->
- 
 {{ end }}
 
+<!-- PWA: registrar Service Worker -->
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function() {
+    navigator.serviceWorker.register('/sw.js')
+      .then(function(reg) {
+        console.log('Service Worker registrado con éxito:', reg);
+      })
+      .catch(function(err) {
+        console.error('Error registrando el Service Worker:', err);
+      });
+  });
+}
+</script>
+
 {{- partial "footer_custom.html" . }}
+```

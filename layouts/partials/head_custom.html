@@ -1,81 +1,94 @@
-<script type="text/javascript">
-  window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
-  heap.load("2364841327");
-</script>
+```html
+<head>
+  <!-- Heap Analytics -->
+  <script type="text/javascript">
+    window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+    heap.load("2364841327");
+  </script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js" defer></script>
+  <!-- Cookie Consent -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js" defer></script>
 
-<!-- Cookie Banner -->
-<div id="cookie-banner" class="cookie-banner">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 text-center">
-        <p>
-          Este sitio utiliza cookies para mejorar tu experiencia. Al continuar navegando aceptas nuestra
-          <a href="/politica-de-cookies/" target="_blank">política de cookies</a>.
-          <button id="accept-cookies" class="btn btn-primary">Aceptar</button>
-        </p>
+  <!-- Cookie Banner -->
+  <div id="cookie-banner" class="cookie-banner">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <p>
+            Este sitio utiliza cookies para mejorar tu experiencia. Al continuar navegando aceptas nuestra
+            <a href="/politica-de-cookies/" target="_blank">política de cookies</a>.
+            <button id="accept-cookies" class="btn btn-primary">Aceptar</button>
+          </p>
+        </div>
       </div>
     </div>
   </div>
-</div>
 
-<style>
-  .cookie-banner {
-    background-color: #0c273f;
-    color: #ffba08;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    padding: 10px 0;
-    z-index: 9999;
-    display: none;
-  }
-  .cookie-banner p {
-    margin: 0;
-  }
-  .cookie-banner a {
-    color: #f0fc00;
-    text-decoration: none;
-  }
-  .cookie-banner button {
-    background-color: #f0fc00;
-    color: #0c273f;
-    border: none;
-    padding: 5px 15px;
-    cursor: pointer;
-  }
-  .cookie-banner button:hover {
-    background-color: #ff9900;
-  }
-</style>
-
-<script>
-  // Mostrar el banner si no se ha aceptado previamente
-  window.onload = function() {
-    if (!localStorage.getItem('cookiesAccepted')) {
-      document.getElementById('cookie-banner').style.display = 'block';
+  <style>
+    .cookie-banner {
+      background-color: #0c273f;
+      color: #ffba08;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      padding: 10px 0;
+      z-index: 9999;
+      display: none;
     }
+    .cookie-banner p {
+      margin: 0;
+    }
+    .cookie-banner a {
+      color: #f0fc00;
+      text-decoration: none;
+    }
+    .cookie-banner button {
+      background-color: #f0fc00;
+      color: #0c273f;
+      border: none;
+      padding: 5px 15px;
+      cursor: pointer;
+    }
+    .cookie-banner button:hover {
+      background-color: #ff9900;
+    }
+  </style>
 
-    // Aceptar cookies
-    document.getElementById('accept-cookies').onclick = function() {
-      localStorage.setItem('cookiesAccepted', 'true');
-      document.getElementById('cookie-banner').style.display = 'none';
-    };
-  };
-
-  (function() {
-    const konamiCode = [38,38,40,40,37,39,37,39]; 
-    let input = [];
-
-    window.addEventListener('keydown', function(e) {
-      input.push(e.keyCode);
-      if (input.toString().includes(konamiCode.toString())) {
-        alert("diamanuel.com/page/secretpage");
-        input = []; //
+  <script>
+    // Mostrar el banner si no se ha aceptado previamente
+    window.onload = function() {
+      if (!localStorage.getItem('cookiesAccepted')) {
+        document.getElementById('cookie-banner').style.display = 'block';
       }
-      if (input.length > konamiCode.length) input.shift();
-    });
-  })();
+      // Aceptar cookies
+      document.getElementById('accept-cookies').onclick = function() {
+        localStorage.setItem('cookiesAccepted', 'true');
+        document.getElementById('cookie-banner').style.display = 'none';
+      };
+    };
 
-</script>
+    // Konami Code
+    (function() {
+      const konamiCode = [38,38,40,40,37,39,37,39]; 
+      let input = [];
+      window.addEventListener('keydown', function(e) {
+        input.push(e.keyCode);
+        if (input.toString().includes(konamiCode.toString())) {
+          alert("diamanuel.com/page/secretpage");
+          input = [];
+        }
+        if (input.length > konamiCode.length) input.shift();
+      });
+    })();
+  </script>
+
+  <!-- PWA Manifest -->
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#0b5cff">
+
+  <!-- iOS Support -->
+  <link rel="apple-touch-icon" href="/icons/icon-192.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+</head>
+```

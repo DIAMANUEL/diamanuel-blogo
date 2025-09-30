@@ -1,7 +1,7 @@
 {
-    "name": "Mi Sitio",
-    "short_name": "MiSitio",
-    "description": "Mi web convertida en PWA",
+    "name": "DIAMANUEL BLOGO",
+    "short_name": "DMBlogo",
+    "description": "¡Posts brillantes como un diamante, ahora en móvil!",
     "start_url": "/",
     "scope": "/",
     "display": "standalone",

@@ -1,0 +1,7 @@
+[build]
+  command = "hugo --minify --buildFuture"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.112.0"  # o la versión de Hugo que estés usando localmente
+  HUGO_ENV = "production"

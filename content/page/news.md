@@ -37,4 +37,4 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 
 >Nuevo post. 09/09/2025
 
->Soporte para PWA. 30/09/2025
+>Soporte para PWA (en móvil, si estáis en Chrome, dadle a los tres puntos, luego a añadir a pantalla de inicio. Le dais a instalar ¡y así tendréis un acceso rápido al blog!). 30/09/2025

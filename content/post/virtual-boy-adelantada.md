@@ -1,7 +1,7 @@
 ---
 title: "¿Por qué fracasó Virtual Boy?"
 date: 2025-09-28T00:00:35+02:00
-draft: true
+draft: false
 ---
 Hace no mucho a fecha de este post, Nintendo ha anunciado la próxima consola retro que llegará a su subscripción online: la Virtual Boy. Ahora, existen 4 tipos de personas diferentes hacia este anuncio: algunos que les molesta que hayan sacado esta consola en vez de la Wii por ejemplo, los defensores Nintenderos que creen que su compañía sigue siendo la mejor, los que les da igual porque o no son nintenderos o no tienen el online, o yo que de primeras me pareció interesante pero después de ver los precios de los accesorios se sintió traicionado.
 

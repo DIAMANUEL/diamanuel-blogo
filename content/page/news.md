@@ -40,3 +40,5 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 >Soporte para PWA (en móvil, si estáis en Chrome, dadle a los tres puntos, luego a añadir a pantalla de inicio. Le dais a instalar ¡y así tendréis un acceso rápido al blog!). 30/09/2025
 
 >Nuevo post. 1/10/2025
+
+>Decoración Halloween. 15/10/2025

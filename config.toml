@@ -28,6 +28,9 @@ disqusShortname = "Diamanuel"
   socialShare = true
   delayDisqus = true
   showRelatedPosts = true
+  googleFonts = "family=Rubik:wght@400;700&family=Nunito+Sans:wght@400;600&display=swap"
+  fontFamily = "'Rubik', sans-serif"
+  secondaryFont = "'Nunito Sans', sans-serif"
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 

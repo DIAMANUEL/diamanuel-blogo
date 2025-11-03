@@ -43,4 +43,4 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 
 >Decoración Halloween. 15/10/2025
 
->Nuevo post. 03/11/2025
+>Nuevo post y testeo de fuentes. 03/11/2025

@@ -1,0 +1,46 @@
+/* --- Beautiful Hugo Font Overrides --- */
+
+/* Replace Lora (used for body/post content) with Nunito Sans */
+html,
+body,
+.post-content,
+.content,
+blockquote,
+p,
+.article,
+.reading-content,
+.page-content,
+.post-entry {
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+}
+
+/* Replace Open Sans / Helvetica stack with Rubik for headings, nav, etc. */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar-custom,
+.navbar-custom .navbar-brand,
+.navbar-custom .nav li a,
+.post-title,
+.page-heading,
+footer,
+.btn,
+button,
+a.btn,
+.post-meta,
+.pager li a {
+  font-family: 'Rubik', sans-serif !important;
+}
+
+/* Optional: ensure headings have appropriate weight */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+}

@@ -5,7 +5,7 @@ draft: false
 ---
 Nintendo solía ser una empresa que se preocupaba mucho de sus jugadores. Claro que siempre han habido memes de que "Nintendo demanda a un niño por hacer una Game Boy de cartón" aunque realmente estaba exagerado. Sin embargo, hoy en día Nintendo se ha convertido en el villano de la industria.
 
-Al igual que la salvó en los 80 con la NES, está a punto de desencadenar una decadencia inminente del mercado como con Atari. En este post quiero repasar algunas de las prácticas anticonsumistas de la empresa de videojuegos por excelencia durante estos últimos años.
+Al igual que la salvó en los 80 con la NES, está a punto de desencadenar una decadencia inminente del mercado como con Atari. En este post quiero repasar algunas de las prácticas anticonsumidor de la empresa de videojuegos por excelencia durante estos últimos años.
 
 >Antes de nada, sigo siendo fan de Nintendo, me encantan sus consolas y juegos, pero creo que esta vez es necesario transmitir esto para que con suerte, Internet se mueva para hacerles cambiar. Por cierto, ¡¡quedan dos semanas para el aniversario 3 del blog!! Este año no va a haber un gran evento, pero si tengo algo preparado que puede que os parezca interesante.
 

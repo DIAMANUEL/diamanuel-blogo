@@ -1,7 +1,7 @@
 ---
 title: "La decadencia del streaming"
-date: 2025-10-15T00:00:00+00:00
-draft: true
+date: 2025-11-04T00:00:00+00:00
+draft: false
 ---
 
 Los servicios de streaming son plataformas donde puedes acceder a diversas series y películas a cambio de que pagues una cantidad cada mes.

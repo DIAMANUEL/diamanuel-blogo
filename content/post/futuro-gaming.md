@@ -2,6 +2,8 @@
 title: "La resumida historia de los precios del gaming y qué está por llegar"
 date: 2025-08-25T00:00:00+00:00
 draft: false
+image: "/img/posts/futuro_gaming.png"
+tag: ["Actualidad", "Videojuegos", "Gaming", "Nintendo"]
 ---
 
 El gaming nunca ha sido un hobby accesible a todos los bolsillos, pero desde luego últimamente la cosa está empezando a empeorar de forma preocupante.

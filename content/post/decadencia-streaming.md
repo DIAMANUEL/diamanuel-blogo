@@ -2,6 +2,8 @@
 title: "La decadencia del streaming"
 date: 2025-11-04T00:00:00+00:00
 draft: false
+image: "/img/posts/decadencia_streaming.png"
+tag: ["Streaming", "Pirateo", "Netflix", "Disney"]
 ---
 
 Los servicios de streaming son plataformas donde puedes acceder a diversas series y películas a cambio de que pagues una cantidad cada mes.

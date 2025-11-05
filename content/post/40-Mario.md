@@ -2,6 +2,8 @@
 title: "Nintendo se ha olvidado del cumpleaños de su fontanero"
 date: 2025-07-02T00:00:35+02:00
 draft: false
+image: "/img/posts/mario_aniversario.png"
+tag: ["Mario Bros", "Nintendo", "40 Aniversario"]
 ---
 Hola, he vuelto con un post que hablará sobre algo que no he visto que nadie haya cubierto, el 40 aniversario de Super Mario Bros.
 

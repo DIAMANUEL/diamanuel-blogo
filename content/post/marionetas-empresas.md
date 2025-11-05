@@ -2,6 +2,8 @@
 title: "Empresas avariciosas que antes eran aplaudidas"
 date: 2025-09-09T00:00:35+02:00
 draft: false
+image: "/img/posts/avaricia.png"
+tag: ["Actualidad", "Apple", "Estafa",]
 ---
 El mundo de la tecnología y los videojuegos han evolucionado mucho con el paso del tiempo, y las empresas que vendían productos de estos sectores estaban prácticamente obligados a hacer que sus productos recibieran una buena impresión por parte de los usuarios, porque sobre todo antes de los 2000-2010 cuando la gente todavía no conocía del todo por qué necesitarían sus productos puesto que era algo relativamente nuevo y caro.
 

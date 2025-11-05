@@ -2,6 +2,8 @@
 title: "¿Cuál fue el año con mejores juegos?"
 date: 2025-07-22T00:00:35+02:00
 draft: false
+image: "/img/posts/mejor_año.png"
+tag: ["Retro", "Videojuegos", "Gaming", "Metacritic"]
 ---
 
 Hola, en este post estaré analizando los juegos con más nota de Metacritic para averiguar qué año fue el más cargado de juegazos. Tendré en cuenta los mejores 50 juegos según Metacritic y a partir de ahí haré la media de todos los años que aparezcan y si hay algo interesante que mencionar, lo haré.

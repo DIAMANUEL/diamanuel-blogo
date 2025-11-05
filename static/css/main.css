@@ -49,6 +49,24 @@ h6 {
   font-weight: 800;
 }
 
+/* Miniaturas de posts */
+.post-preview img,
+.article-thumb,
+.thumbnail {
+  border-radius: 6px;
+  /* Cambia el valor a tu gusto: 4px = leve, 12px = más redondo */
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Efecto ligero al pasar el ratón */
+.post-preview img:hover,
+.article-thumb:hover,
+.thumbnail:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
 a {
   color: #008AFF;
 }

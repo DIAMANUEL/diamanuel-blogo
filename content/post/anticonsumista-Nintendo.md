@@ -2,7 +2,10 @@
 title: "Nintendo... ¿En qué te has convertido?"
 date: 2025-06-01T17:00:00+02:00
 draft: false
+image: "/img/posts/avaricia_nintendo.png"
+tag: ["Nintendo"]
 ---
+![Nintendo Greed](/img/posts/avaricia_nintendo.png)
 Nintendo solía ser una empresa que se preocupaba mucho de sus jugadores. Claro que siempre han habido memes de que "Nintendo demanda a un niño por hacer una Game Boy de cartón" aunque realmente estaba exagerado. Sin embargo, hoy en día Nintendo se ha convertido en el villano de la industria.
 
 Al igual que la salvó en los 80 con la NES, está a punto de desencadenar una decadencia inminente del mercado como con Atari. En este post quiero repasar algunas de las prácticas anticonsumidor de la empresa de videojuegos por excelencia durante estos últimos años.

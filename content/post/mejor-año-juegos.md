@@ -5,7 +5,7 @@ draft: false
 image: "/img/posts/mejor_año.png"
 tag: ["Retro", "Videojuegos", "Gaming", "Metacritic"]
 ---
-
+![Juegos](/img/posts/mejor_año.png)
 Hola, en este post estaré analizando los juegos con más nota de Metacritic para averiguar qué año fue el más cargado de juegazos. Tendré en cuenta los mejores 50 juegos según Metacritic y a partir de ahí haré la media de todos los años que aparezcan y si hay algo interesante que mencionar, lo haré.
 
 He tenido que analizar bastantes juegos, así que más os vale leer este post hasta el final, jeje. Por suerte para vosotros, los que tenéis vida, le he pedido a mi ayudante Chat GPT que haga una lista de menos a más nota media sencilla para los que solo quieran scrollear rápidamente. Finalmente, haré reflexiones de los años más curiosos.

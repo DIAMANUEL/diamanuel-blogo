@@ -6,6 +6,7 @@ description: "Analizo por qué la Virtual Boy fue uno de los mayores fracasos de
 draft: false
 tags: ["Nintendo", "Retro", "Consolas"]
 ---
+![Virtual Boy](/img/posts/virtual-boy-thumbnail.png)
 Hace no mucho, a fecha de este post, Nintendo ha anunciado la próxima consola retro que llegará a su suscripción online: la Virtual Boy.
 Ahora, existen 4 tipos de personas diferentes hacia este anuncio: algunos a los que les molesta que hayan sacado esta consola en vez de la Wii, por ejemplo; los defensores nintenderos que creen que su compañía sigue siendo la mejor; los que les da igual porque o no son nintenderos o no tienen el online; o yo, que de primeras me pareció interesante, pero después de ver los precios de los accesorios me sentí traicionado.
 

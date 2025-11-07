@@ -5,6 +5,7 @@ draft: false
 image: "/img/posts/mario_aniversario.png"
 tag: ["Mario Bros", "Nintendo", "40 Aniversario"]
 ---
+![Mario sad](/img/posts/mario_aniversario.png)
 Hola, he vuelto con un post que hablará sobre algo que no he visto que nadie haya cubierto, el 40 aniversario de Super Mario Bros.
 
 Fue hace casi 40 años que el primer juego de **Super** Mario Bros. (no confundir con Mario Bros. a secas) salió a la venta, y fue un éxito total como sabemos hoy en día. Durante estos años, se han celebrado diversos aniversarios, todos con algún objeto/juego conmemorativo para homenajear al personaje más importante de los videojuegos. Sin embargo, este año es el 40 aniversario y todavía Nintendo no se ha pronunciado al respecto de qué van a hacer este año. Ni siquiera durante el *Mar10 Day*.

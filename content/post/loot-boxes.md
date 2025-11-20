@@ -5,7 +5,7 @@ draft: false
 image: "/img/posts/loot_box.png"
 tag: ["Loot Box"]
 ---
-![Loot Box](loot_box.png)
+![Loot Box](/img/posts/loot_box.png)
 Vale, puede que el título sea algo exagerado... ¿o no?
 
 Si bien es verdad que normalmente no son literalmente casinos digitales, muchos juegos cuentan con las características de uno. Por supuesto, estoy hablando de las loot boxes (o cajas botín si tienes 40 años). Esta mecánica surgió de la necesidad de integrar pagos en juegos gratuitos para sacar dinero de forma consistente, puesto que hasta que no te salga lo que quieres podrías seguir gastando el dinero que hiciese falta. Sin embargo, cada vez se han vuelto más comunes y parece que nadie quiere hacer al respecto aunque todo el mundo se queje de ello.

@@ -6,6 +6,7 @@ image: "/img/posts/loot_box.png"
 tag: ["Loot Box"]
 ---
 ![Loot Box](/img/posts/loot_box.png)
+
 Vale, puede que el título sea algo exagerado... ¿o no?
 
 Si bien es verdad que normalmente no son literalmente casinos digitales, muchos juegos cuentan con las características de uno. Por supuesto, estoy hablando de las loot boxes (o cajas botín si tienes 40 años). Esta mecánica surgió de la necesidad de integrar pagos en juegos gratuitos para sacar dinero de forma consistente, puesto que hasta que no te salga lo que quieres podrías seguir gastando el dinero que hiciese falta. Sin embargo, cada vez se han vuelto más comunes y parece que nadie quiere hacer al respecto aunque todo el mundo se queje de ello.
@@ -20,7 +21,7 @@ Así es: hoy en día la gran parte de los juegos (sobre todo de móvil) tienen a
 
 Brawl Stars y Clash Royale son juegos donde las cajas y los cofres respectivamente eran un pilar de la experiencia, pero fueron removidos. En este caso, creo que Brawl lo hizo mejor al principio con los Star Drops, que tenían recompensas aleatorias pero eran gratis y conseguidos por jugar. Sin embargo, últimamente han vuelto a sacar loot boxes de pago con cada evento. FIFA (o EA Sports FC para los pringaos) por ejemplo es uno de los peores porque no solo el juego te cuesta ya 70€, sino que para el modo online necesitas la mejor plantilla que solo se consigue con sobres que valen dinero ficticio, que también puede ser adquirido con dinero real. Es una vergüenza, pero lo peor es que es Pegi 3 con la advertencia de las compras digitales. Simplemente es una tragaperras en la que el 7 no es el de la suerte, sino el de Cristiano Ronaldo TOTY, Gold o lo que sea.
 
-También está el caso de Counter Strike 2, que tiene una economía completa creada por los jugadores en base a las armas y demás que salen en los cofres, habiendo algunos de más de 5000 *banazas* por un cuchillo digital. Hay gente que se dedica a invertir en este mercado como si de acciones de Apple se trataran, y es algo absurdo.
+También está el caso de Counter Strike 2, que tiene una economía completa creada por los jugadores en base a las armas y demás que salen en los cofres, habiendo algunos de más de 5000 *banazas* por un cuchillo digital. Hay gente que se dedica a invertir en este mercado como si de acciones de Apple se trataran, y es algo absurdo. Estas prácticas también son comunes es Roblox, el juego más seguro para niños según nadie. Todos los juegos tienen alguna forma de randomizador y si Counter Strike tenía una mercado completo, ahí hay un hipermercado, más bien.
 
 Lo más irónico es que en el mayor de los casos, si algún día te suspenden la cuenta, se cierran los servidores o algo así, perderías todas esas "inversiones" sin poder hacer nada más que llorarle a la empresa.
 

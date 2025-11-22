@@ -48,3 +48,5 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 >Oleada de miniaturas 1. 05/11/2025
 
 >Nuevo post. 20/11/2025
+
+>Cambios de texto en posts y páginas, cambio de fondo. 22/11/2025

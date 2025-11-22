@@ -13,9 +13,9 @@ Tres en raya de toda la vida. Para dos jugadores, así que si no tines amigos no
 
 **Number Guesser**
 
-Adivina el número secreto. Un juego con una mecánica simple y *Family Friendly*.[Number Guesser](https://diamanuel-number-guesser.netlify.app/)
+Adivina el número secreto. Un juego con una mecánica simple y *Family Friendly*. [Number Guesser](https://diamanuel-number-guesser.netlify.app/)
 
-*Cubnake*
+**Cubnake**
 
 El clásico juego para móbiles antiguos en el que controlas a una serpiente con las flechas del teclado. ¿Qué lo hace diferente? Puessss... Que es para web  ? [Cubnake](https://cubnake.netlify.app)
 

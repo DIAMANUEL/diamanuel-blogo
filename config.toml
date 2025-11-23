@@ -95,7 +95,7 @@ disqusShortname = "Diamanuel"
 
 
 [[menu.main]]
-    name = "Novedades"
+    name = "Cambios Recientes"
     url = "page/news/"
     weight = 10
 

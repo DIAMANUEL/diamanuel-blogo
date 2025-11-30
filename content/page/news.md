@@ -7,6 +7,8 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 
 ### Historial de cambios (desde 2025).
 
+>Decoración de Navidad: activada (¡Feliz Navidad!) 30/11/2025
+
 >Retoque en el fondo, reestructuración página de cambios (ahora renombrada a Cambios Recientes)
 
 >Cambios de texto en posts y páginas, cambio de fondo. 22/11/2025

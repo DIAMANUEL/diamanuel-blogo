@@ -44,3 +44,61 @@ h5,
 h6 {
   font-weight: 600;
 }
+
+/* -------------------------------------------------------- */
+/*  PRIMARY FONTS (your current setup — unchanged)          */
+/* -------------------------------------------------------- */
+
+:root {
+  --font-body: 'Baloo 2', sans-serif;
+  --font-heading: 'Rubik', sans-serif;
+}
+
+/* -------------------------------------------------------- */
+/*  FUTURE APRIL FOOLS FONTS                                */
+/* -------------------------------------------------------- */
+
+/* Comic Sans (regular) */
+@font-face {
+  font-family: 'Comic Sans MS';
+  src: local('Comic Sans MS'), local('ComicSansMS');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Papyrus (regular + bold if available) */
+@font-face {
+  font-family: 'Papyrus';
+  src: local('Papyrus');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Papyrus';
+  src: local('Papyrus');
+  font-weight: 700;
+}
+
+/* Wingdings */
+@font-face {
+  font-family: 'Wingdings';
+  src: local('Wingdings');
+}
+
+/* -------------------------------------------------------- */
+/*  OPTIONAL: CSS CLASSES TO ACTIVATE APRIL FOOLS MODE      */
+/* -------------------------------------------------------- */
+
+.april-fools-body {
+  font-family: 'Comic Sans MS', cursive !important;
+}
+
+.april-fools-title {
+  font-family: 'Papyrus', fantasy !important;
+}
+
+
+/* GASTER MODE: todo el sitio en Wingdings */
+html.gaster-mode * {
+  font-family: 'Wingdings', sans-serif !important;
+}

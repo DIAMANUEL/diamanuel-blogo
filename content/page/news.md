@@ -7,6 +7,8 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 
 ### Historial de cambios (desde 2025).
 
+>Nuevo post y easter egg (pista: G...). 1/10/2025
+
 >Decoración de Navidad: activada (¡Feliz Navidad!) 30/11/2025
 
 >Retoque en el fondo, reestructuración página de cambios (ahora renombrada a Cambios Recientes)

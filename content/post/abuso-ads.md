@@ -6,6 +6,7 @@ image: "/img/posts/ads.png"
 tag: ["Ads", "Actualidad", "In"]
 ---
 ![Abuso de publicidad](/img/posts/ads.png)
+
 La publicidad. LA PUBLICIDAD. Todos vemos anuncios diariamente y de forma constante, a veces inconscientemente. A todos nos molesta tener que tragarnos anuncios, sobre todo si son largos o te dan ganas de arrancar la pantalla y lanzarla a la cara del guionista que haya producido tal truñazo, pero por desgracia, nos tenemos que sentar ahí a verlos para que el contenido que tenemos gratis pueda generar algo de dinero. Hasta ahí no pasa nada, todo tiene un precio, y si recibimos un servicio gratuito a cambio de 30 segundos de vida cada cierto tiempo no es tan malo, el problema es que lo que antes era algo ocasional que te molestaba durante menos de un minuto y lo perdías de vista hasta dentro de un largo rato se ha convertido en un modelo de negocio que te bombardea con anuncios de forma abusiva, y los anuncios se han vuelto cad avez peores también.
 
 >Este es mi post más largo hasta ahora (sin contar el del 3er aniversario) y he intentado hacerlo lo mejor posible porque es mi especial por los +100 usuarios distintos que habéis visitado mi web durante el mes de noviembre, aunque posiblemente solo 10 seáis frecuentes. Aún así, espero que os guste tanto este post como los que vaya a seguir subiendo. ​❤️‍🔥​

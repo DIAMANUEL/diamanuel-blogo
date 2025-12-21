@@ -8,8 +8,8 @@ comments: true
 
 Hola, soy un desarrollador novato y gamer experto. Me gusta reflexionar sobre el estado de internet y los videojuegos en este blog. Mi nickname viene de diamante y Manuel. Lo de diamante sale de Mikecrack, que era uno de mis youtubers favoritos hace años.
 
-Me gustan los videojuegos y la programación y tengo este blog para aprender mientras comparto mi pasión por los ellos. Algunos de mis juegos favoritos son Undertale, Portal 2, Super Mario Galaxy 2 o Mario Kart Wii.
-En mis ratos libres suelo jugar un poco y desde hace ya unos años, escribir mi opinión acerca de diferentes temas dentro del mundo de los videojuegos aquí.
+Me gustan los videojuegos y la programación y tengo este blog para aprender mientras comparto mi pasión por los ellos. Soy un gran friki de Nintendo, siendo algunos de mis juegos favoritos Mario Kart Wii, Pokémon, Mario Galaxy 2 o Tomodachi Life, pero también soy muy fan de grandes joyas como Portal 2, Undertale, Deltarune o Cuphead.
+En mis ratos libres suelo jugar y desde hace ya unos años, escribir mi opinión acerca de diferentes temas dentro del mundo de los videojuegos aquí.
 
 Otras de mis cosas favoritas son el basket, la lectura y el ciclismo.
 

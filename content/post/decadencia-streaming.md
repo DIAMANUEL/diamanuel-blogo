@@ -6,6 +6,7 @@ image: "/img/posts/decadencia_streaming.png"
 tag: ["Streaming", "Pirateo", "Netflix", "Disney"]
 ---
 ![Streaming](/img/posts/decadencia_streaming.png)
+
 Los servicios de streaming son plataformas donde puedes acceder a diversas series y películas a cambio de que pagues una cantidad cada mes.
 
 Empezaron a surgir alrededor de los 90 de forma primitiva, pero no se llegaron a popularizar de verdad hasta más o menos la cuarentena, cuando estábamos todos encerrados y no podiíamos ir al cine. Las plataformas del estilo de Disney+, Netflix etc. ofrecían un extenso catálogo de contendios por el módico precio de (el plan básico) 8€ al mes. Con poco que hacer en casa, infinitas películas y series de gran calidad y un precio justo, mucha gente contrató en su día estos servicios.

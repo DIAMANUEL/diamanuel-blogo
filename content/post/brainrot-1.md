@@ -6,6 +6,7 @@ image: "/img/posts/brain_rot.png"
 tag: ["Brain Rot", "Tik Tok",]
 ---
 ![Brainrot](/img/posts/brain_rot.png)
+
 TikTok es la red social con más influencia e importancia entre los jóvenes. La generación Z siempre hemos sido (prácticamente) la única generación activa en Internet, pero con el pasar de los años, estamos viendo que cada vez más la nueva generación *alfa* está abriendose paso por las plataformas digitales.
 
 Entre otras cosas, esto ha provocado que en TikTok haya surgido un nuevo vocabulario creado por esta nueva generación, y de esas palabras nuevas voy a hablar en este post.

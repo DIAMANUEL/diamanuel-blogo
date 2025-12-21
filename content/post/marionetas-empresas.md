@@ -6,6 +6,7 @@ image: "/img/posts/avaricia.png"
 tag: ["Actualidad", "Apple", "Estafa",]
 ---
 ![Meme](/img/posts/avaricia.png)
+
 El mundo de la tecnología y los videojuegos han evolucionado mucho con el paso del tiempo, y las empresas que vendían productos de estos sectores estaban prácticamente obligados a hacer que sus productos recibieran una buena impresión por parte de los usuarios, porque sobre todo antes de los 2000-2010 cuando la gente todavía no conocía del todo por qué necesitarían sus productos puesto que era algo relativamente nuevo y caro.
 
 Las empresas intentaban competir entre ellas por cuál tiene el mejor producto al mejor precio y los usuarios, a consecuéncia de esta competencia, se beneficiaban de que los productos que querían comprar serían lo mejor posibles.

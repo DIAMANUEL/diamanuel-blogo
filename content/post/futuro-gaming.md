@@ -6,6 +6,7 @@ image: "/img/posts/futuro_gaming.png"
 tag: ["Actualidad", "Videojuegos", "Gaming", "Nintendo"]
 ---
 ![Meme Pobreza](/img/posts/futuro_gaming.png)
+
 El gaming nunca ha sido un hobby accesible a todos los bolsillos, pero desde luego últimamente la cosa está empezando a empeorar de forma preocupante.
 En este post quiero discutir la subida de precios en general de los videojuegos, qué lo provoca y qué podemos esperar de aquí a unos años.
 

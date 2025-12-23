@@ -95,9 +95,9 @@ disqusShortname = "Diamanuel"
 
 
 [[menu.main]]
-    name = "Cambios Recientes"
+    name = "Devlog"
     url = "page/news/"
-    weight = 10
+    weight = 12
 
 #[[menu.main]]
  #   name = "Origenes"
@@ -112,7 +112,7 @@ disqusShortname = "Diamanuel"
 [[menu.main]]
     name = "Juegos"
     url = "page/minigames/"
-    weight = 10
+    weight = 12
 
  #   [[menu.main]]
   #  name = "¡Encuesta mensual!"

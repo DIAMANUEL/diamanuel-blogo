@@ -181,6 +181,24 @@ $(function(){
 
 {{- partial "footer_custom.html" . }}
 
+
+<style>
+  /* Oculta el contenedor de Disqus por defecto */
+  #disqus_thread {
+    display: none;
+  }
+</style>
+
+<script>
+  $(function() {
+    $('#show-comments').on('click', function(){
+      $('#disqus_thread').show(); // Mostrar el contenedor al abrir comentarios
+    });
+  });
+</script>
+
+
+
 <!-- Easter Egg Gaster -->
 <script>
 (function () {
@@ -200,3 +218,4 @@ $(function(){
   });
 })();
 </script>
+

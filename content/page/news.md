@@ -7,6 +7,9 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 
 ### Historial de cambios (desde 2025).
 
+
+>Nuevo post y Navidad off. 10/01/2026
+
 >Sección de comentarios arreglada, cambio de nombre a página de cambios y nuevo juego *Shot or Slop?*. 23/12/2025
 
 >Nuevo post, cambios en páginas y entradilla del blog. 21/12/2025

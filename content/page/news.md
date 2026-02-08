@@ -7,6 +7,7 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 
 ### Historial de cambios (desde 2025).
 
+>Nuevo post. 08/02/2026
 
 >Nuevo post y Navidad off. 10/01/2026
 

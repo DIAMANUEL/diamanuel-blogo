@@ -2,10 +2,10 @@
 title: "¿Por qué explotó la IA de la nada?"
 date: 2026-02-08T00:00:00+02:00
 draft: false
-image: "/img/posts/ai-3.png"
+image: "/img/posts/ia-surgimiento.png"
 tag: ["Inteligencia Artificial", "Actualidad", "IA"]
 ---
-![Aniversario](/img/posts/ia-3.png)
+![Aniversario](/img/posts/ia-surgimiento.png)
 
 Este es mi tercer post sobre la IA, pero hoy he querido responder a una duda que tanto yo como mucha otra gente tenemos: ¿de dónde ha salido la IA y por qué de repente es tan lista?
 

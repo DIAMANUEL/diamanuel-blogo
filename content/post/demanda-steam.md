@@ -30,5 +30,5 @@ Esto, siendo realista, no creo que cambie mucho nada, pero a lo mejor hace que s
 
 En resumen: esto beneficiará a los jugadores en general pero sobre todo a los de Reino Unido, le pone los pies en la tierra a Steam y a mí me da tema para un post. Siento que lleve una racha de posts que llegan tarde o no tienen suficiente *chicha*, pero intentaré ponerme las pilas para el siguiente post.
 
-Gracias por haber leído hasta aquí, pero si quieres ser más crack todavía he publicado una encuesta pública para encuestar qué aspectos del blog necesitan mejoras o cuáles debería priorizar. La puedes encontrar [https://docs.google.com/forms/d/e/1FAIpQLSfbkoX6zsLlAH-jxO7DMrcTVTz4fM2rDNeXY3GYunHPiOHvLA/viewform?usp=dialog](aquí). Espero que os haya gustado este post. ¡Hasta el próximo!
+Gracias por haber leído hasta aquí, pero si quieres ser más crack todavía he publicado una encuesta pública para encuestar qué aspectos del blog necesitan mejoras o cuáles debería priorizar. La puedes encontrar [https://docs.google.com/forms/d/e/1FAIpQLSfbkoX6zsLlAH-jxO7DMrcTVTz4fM2rDNeXY3GYunHPiOHvLA/viewform?usp=sharing&ouid=113382877439676463917](aquí). Espero que os haya gustado este post. ¡Hasta el próximo!
 

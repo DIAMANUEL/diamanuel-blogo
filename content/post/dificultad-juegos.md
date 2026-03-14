@@ -1,6 +1,6 @@
 ---
 title: "La evolución de la dificultad en videojuegos"
-date: 2026-02-22T00:00:00+02:00
+date: 2026-03-08T00:00:00+02:00
 draft: false
 image: "/img/posts/dificultad-juegos.png"
 tag: ["Dificultad", "Hand Holding", "Videojuegos"]

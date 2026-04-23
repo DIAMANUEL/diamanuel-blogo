@@ -24,3 +24,4 @@ Más tarde, cuando me toque escribir post (cada 2 semanas aproximadamente) entro
 Cuando ya tengo un tema elejido, me meto a Photoshop y hago una miniatura para el post. Pienso la tesis del post y trato de pensar en un meme que pueda encajar lo que quiero transmitir. La verdad, esto es lo más gracioso de hacer un post, porque puedo hacer memes con la font Comic Sans y poder decir que estoy haciendo algo productivo por ser del blog.
 
 Por último, escribo el post en sí. Suelo tardar 1h en escribir, revisar, corregir y publicar pero no es tan pesado como suena. La mayor parte de mis posts consisten en una introducción para introducir al lector al tema del post, 3-4 argumentos agrupados en párrafos y una conclusión reflexiva en el que resumo todo lo hablado e invito al lector a que reflexione sobre el tema después de haber leído el post. No sin antes acabar con mi habitual "¡Hasta el póximo post!".
+

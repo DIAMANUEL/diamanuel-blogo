@@ -18,6 +18,9 @@ El clásico juego para móbiles antiguos en el que controlas a una serpiente con
 ### Shot or Slop?
 Un juego sencillo en el que tienes que adivinar si la imagen es IA o humana. [Shot or Slop](https://shot-or-slop.netlify.app/)
 
+### Palabra del día
+Es una especie de WordL pero en vez de adivinar la palabra con letras la adivinas a través de su definición. Tiene palabras suficientes para no repetir de forma común, pero desconozco cada cuánto se repiten, pero ya iré añadiendo más palabras con el tiempo si eso. El juego incluye una función de racha, así que si te da dopamina ver subir el número ya sabes... [Palabra del día](https://palabritadeldia.netlify.app/)
+
 # Juegos de Unity
 Hechos en Unity por mí. No todos los ordenadores los pueden correr (me refiero a los pochos esos de colegio).
 

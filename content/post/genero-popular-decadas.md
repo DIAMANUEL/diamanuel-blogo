@@ -1,6 +1,6 @@
 ---
 title: "El género de videojuegos más popular de cada década"
-date: 2026-03-21T00:00:00+02:00
+date: 2026-05-09T00:00:00+02:00
 draft: false
 image: "/img/posts/decadas-modas.png"
 tag: ["Videojuegos"]

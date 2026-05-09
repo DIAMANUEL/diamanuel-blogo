@@ -7,6 +7,8 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 
 ### Historial de cambios (desde 2025).
 
+>Nuevo post. 09/05/2026
+
 >Nuevo minijuego: Palabra del día. 24/04/2026
 
 >Nuevo post. 23/04/2026

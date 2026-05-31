@@ -1,3 +1,9 @@
++++
+title = "Devlog"
+layout = "page"
++++
+
+Your Devlog content goes here...
 Hola, en esta página pondré juegos hechos por mí que vaya haciendo o que tenga por ahí.
 
 # Juegos de Web

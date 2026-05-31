@@ -13,11 +13,11 @@ disqusShortname = "Diamanuel"
 #googleAnalytics = "XXX"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  homeTitle = "DIAMANUEL BLOGO" # This forces the browser tab/header on the homepage to use this name instead of the URL
   subtitle = "Posts brillantes como un diamante"
   mainSections = ["post","posts"]
   logo = "img/Avatars/new-avatar.png" # Expecting square dimensions
-  favicon = "img/Other/favicon-blue.ico"
+  favicon = "img/Other/favicon-polished.ico"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
@@ -105,7 +105,7 @@ disqusShortname = "Diamanuel"
    # weight = 10
 
 [[menu.main]]
-    name = "   "
+    name = "    "
     url = "page/secretpage/"
     weight = 15
 

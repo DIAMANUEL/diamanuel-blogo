@@ -1,3 +1,7 @@
++++
+title = "Devlog"
+layout = "page"
++++
 
 En esta página podrás encontrar los últimos cambios a la web. Si te interesa comentarme alguna sugerencia, darme alguna crítica, charlar o algo así aquí encontrarás lo que necesitas para contactarme.
  
@@ -6,6 +10,8 @@ O puedes enterarte de próximos eventos, encuestas y planes del blog y de otros 
 Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.me**.
 
 ### Historial de cambios (desde 2025).
+
+>Nuevo switch de modo negro/blanco, título cambiado (tab de navegador), nuevos mensajes de error 404, logos pulidos. 31/05/2026
 
 >Nuevo post. 24/05/2026
 

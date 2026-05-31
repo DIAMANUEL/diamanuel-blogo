@@ -1,46 +1,83 @@
-<head>
-  <!-- Meta básico -->
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <!-- Heap Analytics -->
-  <script type="text/javascript">
-    window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){
-      window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;
-      var a=document.createElement("script");
-      a.type="text/javascript";a.async=!0;
-      a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";
-      var r=document.getElementsByTagName("script")[0];
-      r.parentNode.insertBefore(a,r);
-      var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearPageviewProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])
-    };
-    heap.load("2364841327");
-  </script>
-
-  <!-- Cookie Consent (solo script y styles) -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js" defer></script>
-  <style>
-    .cookie-banner {
-      background-color: #0c273f;
-      color: #ffba08;
-      position: fixed;
-      bottom: 0;
-      width: 100%;
-      padding: 10px 0;
-      z-index: 9999;
-      display: none;
+<!-- Anti-Flash Theme Initializer (Defaulting to Dark Mode) -->
+<script type="text/javascript">
+  (function() {
+    const savedTheme = localStorage.getItem('theme');
+    // If the user manually saved 'light', use light. Otherwise, default to dark.
+    if (savedTheme === 'light') {
+      document.documentElement.setAttribute('data-theme', 'light');
+    } else {
+      document.documentElement.setAttribute('data-theme', 'dark');
     }
-    .cookie-banner p { margin: 0; }
-    .cookie-banner a { color: #f0fc00; text-decoration: none; }
-    .cookie-banner button {
-      background-color: #f0fc00;
-      color: #0c273f;
-      border: none;
-      padding: 5px 15px;
-      cursor: pointer;
+  })();
+</script>
+
+<script>
+  // 1. Immediately check for a saved theme preference, fallback to 'dark'
+  const savedTheme = localStorage.getItem('theme') || 'dark';
+  document.documentElement.setAttribute('data-theme', savedTheme);
+
+  // 2. Run this once the DOM is ready to wire up the button click event
+  document.addEventListener('DOMContentLoaded', () => {
+    const toggleBtn = document.getElementById('theme-toggle-btn');
+    
+    if (toggleBtn) {
+      toggleBtn.addEventListener('click', () => {
+        // Get the current theme state
+        const currentTheme = document.documentElement.getAttribute('data-theme');
+        // Switch to the opposite theme
+        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        
+        // Apply the new theme to the document
+        document.documentElement.setAttribute('data-theme', newTheme);
+        // Save the setting to local storage so it persists
+        localStorage.setItem('theme', newTheme);
+      });
     }
-    .cookie-banner button:hover { background-color: #ff9900; }
-  </style>
+  });
+</script>
+
+<!-- Meta básico -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Heap Analytics -->
+<script type="text/javascript">
+  window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){
+    window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;
+    var a=document.createElement("script");
+    a.type="text/javascript";a.async=!0;
+    a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";
+    var r=document.getElementsByTagName("script")[0];
+    r.parentNode.insertBefore(a,r);
+    var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearPageviewProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])
+  };
+  heap.load("2364841327");
+</script>
+
+<!-- Cookie Consent (solo script y styles) -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js" defer></script>
+<style>
+  .cookie-banner {
+    background-color: #0c273f;
+    color: #ffba08;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 10px 0;
+    z-index: 9999;
+    display: none;
+  }
+  .cookie-banner p { margin: 0; }
+  .cookie-banner a { color: #f0fc00; text-decoration: none; }
+  .cookie-banner button {
+    background-color: #f0fc00;
+    color: #0c273f;
+    border: none;
+    padding: 5px 15px;
+    cursor: pointer;
+  }
+  .cookie-banner button:hover { background-color: #ff9900; }
+</style>
 
 {{ if .Params.image }}
   <meta property="og:image" content="{{ .Params.image | absURL }}">
@@ -51,29 +88,69 @@
   <meta property="twitter:image" content="{{ "images/default-thumbnail.png" | absURL }}">
 {{ end }}
 
+<!-- PWA Manifest -->
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#0c273f">
 
+<!-- iOS Support -->
+<link rel="apple-touch-icon" href="/icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 
-  <!-- PWA Manifest -->
-  <link rel="manifest" href="/manifest.json">
-  <meta name="theme-color" content="#0c273f">
-
-  <!-- iOS Support -->
-  <link rel="apple-touch-icon" href="/icons/icon-192.png">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <!-- Preconnect for Google Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
 <!-- Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?
-family=Baloo+2:wght@400;500;600;700;800&
-family=Nunito+Sans:wght@400;600;700&
-family=Rubik:wght@400;700&
-display=swap" rel="stylesheet">
-
-
-
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700;800&family=Nunito+Sans:wght@400;600;700&family=Rubik:wght@400;700&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
-</head>
+
+<!-- Navbar Theme Toggle Injector & Controller Script -->
+<div id="theme-asset-bridge" 
+     data-moon-src="{{ "img/moon.png" | relURL }}" 
+     data-sun-src="{{ "img/sun.png" | relURL }}" 
+     style="display:none;"></div>
+
+<script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function() {
+    var navContainer = document.querySelector(".navbar-right");
+    if (!navContainer) return;
+
+    var bridge = document.getElementById("theme-asset-bridge");
+    if (!bridge) return;
+
+    var moonSrc = bridge.getAttribute("data-moon-src");
+    var sunSrc = bridge.getAttribute("data-sun-src");
+
+    var toggleLi = document.createElement("li");
+    toggleLi.className = "theme-switch-wrapper";
+
+    var toggleBtn = document.createElement("button");
+    toggleBtn.id = "theme-toggle-btn";
+    toggleBtn.setAttribute("aria-label", "Toggle dark/light mode");
+    
+    var imgMoon = document.createElement("img");
+    imgMoon.src = moonSrc;
+    imgMoon.className = "theme-icon icon-moon";
+    imgMoon.alt = "Moon Code";
+
+    var imgSun = document.createElement("img");
+    imgSun.src = sunSrc;
+    imgSun.className = "theme-icon icon-sun";
+    imgSun.alt = "Sun Code";
+
+    toggleBtn.appendChild(imgMoon);
+    toggleBtn.appendChild(imgSun);
+    toggleLi.appendChild(toggleBtn);
+    navContainer.appendChild(toggleLi);
+
+    toggleBtn.addEventListener("click", function() {
+      var currentTheme = document.documentElement.getAttribute("data-theme");
+      var newTheme = currentTheme === "dark" ? "light" : "dark";
+      
+      document.documentElement.setAttribute("data-theme", newTheme);
+      localStorage.setItem("theme", newTheme);
+    });
+  });
+</script>

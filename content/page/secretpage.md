@@ -1,3 +1,7 @@
++++
+title = "SECRETO"
+layout = "page"
++++
 ## 💎 Sobre el diamante 💎
 
 El diamante es una piedra, y preciosa.

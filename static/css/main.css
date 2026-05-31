@@ -34,7 +34,7 @@ p+p {
   margin: 24px 0 6px 0;
 }
 
-p a {
+Open Sans p a {
   /* text-decoration: underline */
   color: #008AFF;
 }
@@ -1032,4 +1032,159 @@ footer .container {
   border-radius: 5px !important;
   padding: 5px 15px;
   font-weight: bold;
+}
+
+
+/* ==========================================================================
+   THEME TOGGLE MECHANICS & NAV ICON ALIGNMENT
+   ========================================================================== */
+
+.theme-switch-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  padding: 0 15px;
+  vertical-align: middle;
+}
+
+#theme-toggle-btn {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  margin: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  transition: transform 0.2s ease;
+}
+
+#theme-toggle-btn:hover {
+  transform: scale(1.08);
+}
+
+/* Custom PNG theme icons scaled cleanly with no borders */
+.theme-icon {
+  width: 42px;
+  height: 42px;
+  display: block;
+  object-fit: contain;
+}
+
+/* Light mode asset assignment and visibility rules */
+[data-theme="light"] #theme-toggle-btn .icon-sun {
+  display: none;
+}
+
+[data-theme="light"] #theme-toggle-btn .icon-moon {
+  display: block;
+  content: url("../img/Other/Moon.png");
+}
+
+/* Dark mode asset assignment and visibility rules */
+[data-theme="dark"] #theme-toggle-btn .icon-sun {
+  display: block;
+  content: url("../img/Other/Sun.png");
+}
+
+[data-theme="dark"] #theme-toggle-btn .icon-moon {
+  display: none;
+}
+
+
+/* ==========================================================================
+   CUSTOM THICK BORDERS & RECTANGLE FIX FOR LIGHT MODE
+   ========================================================================== */
+
+/* 1. Make borders thicker (3px) and darker for cards in Light Mode */
+.post-preview,
+.blog-post,
+.reactions,
+#disqus_thread {
+  border: 3px solid #666666 !important;
+}
+
+.page-heading,
+.post-heading,
+footer .container {
+  border: 3px solid #666666 !important;
+}
+
+/* 2. Fix sharp background box leakage behind rounded components */
+.panel,
+.panel-default,
+.panel-heading,
+.panel-body,
+.panel-group {
+  border: none !important;
+  background: transparent !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+
+/* ==========================================================================
+   DARK THEME SYSTEM OVERRIDES (Applies only when data-theme="dark")
+   ========================================================================== */
+
+html[data-theme="dark"] body {
+  background-image: url(../img/Backgrounds/DMBG-dark.png) !important;
+  background-color: #121212 !important;
+  color: #e0e0e0 !important;
+}
+
+html[data-theme="dark"] .navbar-custom {
+  background: #1a1a1a !important;
+  border-bottom: 1px solid #2d2d2d !important;
+}
+
+html[data-theme="dark"] .navbar-custom .navbar-brand,
+html[data-theme="dark"] .navbar-custom .nav li a {
+  color: #e0e0e0 !important;
+}
+
+html[data-theme="dark"] .navbar-custom .navbar-brand:hover,
+html[data-theme="dark"] .navbar-custom .nav li a:hover {
+  color: #ffba08 !important;
+}
+
+/* Clean, explicit 3px white borders for content blocks in Dark Mode */
+html[data-theme="dark"] .post-preview,
+html[data-theme="dark"] .blog-post,
+html[data-theme="dark"] .reactions,
+html[data-theme="dark"] #disqus_thread {
+  background-color: rgba(30, 30, 30, 0.9) !important;
+  border: 3px solid #ffffff !important;
+}
+
+html[data-theme="dark"] .page-heading,
+html[data-theme="dark"] .post-heading,
+html[data-theme="dark"] footer .container {
+  background-color: rgba(20, 20, 20, 0.85) !important;
+  color: #ffffff !important;
+  border: 3px solid #ffffff !important;
+}
+
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] .post-title {
+  color: #ffffff !important;
+}
+
+html[data-theme="dark"] .post-preview a {
+  color: #e0e0e0 !important;
+}
+
+html[data-theme="dark"] .post-preview a:hover {
+  color: #ffba08 !important;
+}
+
+html[data-theme="dark"] .pager li a {
+  background: #222222 !important;
+  color: #e0e0e0 !important;
+  border: 3px solid #ffffff !important;
 }

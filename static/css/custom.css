@@ -1,9 +1,5 @@
 /* Keep your fonts and your original styles at the top exactly as they are */
-
-/* ==========================================================================
-   GENERAL & LIGHT MODE LAYOUT (Default State)
-   ========================================================================== */
-
+/* ========================================================================== GENERAL & LIGHT MODE LAYOUT (Default State) ========================================================================== */
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
@@ -658,30 +654,30 @@ footer .theme-by {
   min-height: 20px;
   padding: 19px;
   margin-bottom: 20px;
-  background-color: rgba(245, 245, 245, 0.9);
+  background-color: rgba(245, 245, 245, 1);
   border: 1px solid #e3e3e3;
   border-radius: 4px;
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
 }
 
 .page-heading {
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 1);
   border-radius: 4px;
   padding: 19px;
 }
 
 .post-heading,
 footer .container {
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(255, 255, 255, 1);
   border-radius: 4px;
   padding: 19px;
 }
 
 .well {
-  background-color: rgba(255, 186, 8, 0.9);
+  background-color: rgba(255, 186, 8, 1);
   border-radius: 4px;
   padding: 19px;
-  border: 1px solid rgba(255, 186, 8, 0.9);
+  border: 1px solid rgba(255, 186, 8, 1);
 }
 
 .reactions,
@@ -697,11 +693,7 @@ footer .container {
   border-radius: 4px;
 }
 
-
-/* ==========================================================================
-   THEME TOGGLE MECHANICS & CUSTOM IMAGE BUTTON STYLES
-   ========================================================================== */
-
+/* ========================================================================== THEME TOGGLE MECHANICS & CUSTOM IMAGE BUTTON STYLES ========================================================================== */
 .theme-switch-wrapper {
   display: inline-flex;
   align-items: center;
@@ -755,11 +747,7 @@ footer .container {
   display: none;
 }
 
-
-/* ==========================================================================
-   DARK THEME OVERRIDES (data-theme="dark")
-   ========================================================================== */
-
+/* ========================================================================== DARK THEME OVERRIDES (data-theme="dark") ========================================================================== */
 html[data-theme="dark"] body {
   background-image: url(../img/Backgrounds/DMBG.png) !important;
   background-color: #121212 !important;
@@ -787,13 +775,13 @@ html[data-theme="dark"] .post-preview,
 html[data-theme="dark"] .blog-post,
 html[data-theme="dark"] .reactions,
 html[data-theme="dark"] #disqus_thread {
-  background-color: rgba(30, 30, 30, 0.9) !important;
+  background-color: rgba(30, 30, 30, 1) !important;
   border-color: #333333 !important;
 }
 
 html[data-theme="dark"] .page-heading,
 html[data-theme="dark"] .post-heading {
-  background-color: rgba(20, 20, 20, 0.85) !important;
+  background-color: rgba(20, 20, 20, 1) !important;
   color: #ffffff !important;
 }
 
@@ -823,4 +811,22 @@ html[data-theme="dark"] .pager li a {
 html[data-theme="dark"] code {
   background-color: #2d2d2d !important;
   color: #ff8585 !important;
+}
+
+/* ==========================================================================
+   WELL TEXT + SPECIFIC TITLE FIX (#bienvenido-humano)
+   ========================================================================== */
+
+.well {
+  color: #333333 !important;
+}
+
+/* Specific title inside well */
+#bienvenido-humano {
+  color: #333333 !important;
+}
+
+/* Keep links consistent inside well */
+.well a {
+  color: #333333 !important;
 }

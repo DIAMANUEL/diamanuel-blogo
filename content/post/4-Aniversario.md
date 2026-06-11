@@ -1,6 +1,6 @@
 ---
 title: "¡4 años de posts brillantes como diamantes!"
-date: 2026-06-10T00:00:00+02:00
+date: 2026-06-13T00:00:00+02:00
 bigimg: [{src: "/img/Other/banner-aniversario4-small.png", desc: "banner"}]
 draft: true
 image: "/img/Other/banner-aniversario4.png"

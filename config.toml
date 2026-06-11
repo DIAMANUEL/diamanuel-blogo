@@ -14,7 +14,7 @@ disqusShortname = "Diamanuel"
 
 [Params]
   homeTitle = "DIAMANUEL BLOGO" # This forces the browser tab/header on the homepage to use this name instead of the URL
-  subtitle = "Posts brillantes como un diamante"
+  subtitle = "Posts brillantes como diamantes"
   mainSections = ["post","posts"]
   logo = "img/Avatars/new-avatar.png" # Expecting square dimensions
   favicon = "img/Other/favicon-polished.ico"

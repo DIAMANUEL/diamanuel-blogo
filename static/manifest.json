@@ -1,7 +1,7 @@
 {
-    "name": "Acceso directo al blogo",
+    "name": "acceso directo al blogo",
     "short_name": "DM Blogo",
-    "description": "¡Posts brillantes como un diamante, ahora en móvil!",
+    "description": "¡Posts brillantes como diamantes, ahora en móvil!",
     "start_url": "/",
     "scope": "/",
     "display": "standalone",

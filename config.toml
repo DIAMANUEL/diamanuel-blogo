@@ -151,3 +151,8 @@ disqusShortname = "Diamanuel"
  #   name = "Tags"
  #   url = "tags"
   #  weight = 3
+
+  [markup]
+  [markup.goldmark]
+    [markup.renderer]
+      unsafe = true

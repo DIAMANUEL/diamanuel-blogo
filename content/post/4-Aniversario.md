@@ -2,7 +2,7 @@
 title: "¡4 años de posts brillantes como diamantes!"
 date: 2026-06-13T00:00:00+02:00
 bigimg: [{src: "/img/Other/banner-aniversario4-small.png", desc: "banner"}]
-draft: true
+draft: false
 image: "/img/Other/banner-aniversario4.png"
 tag: ["Blog"]
 ---
@@ -10,13 +10,23 @@ tag: ["Blog"]
 
 Han pasado 1460 días (4 años) desde aquel primer post simplemente llamado "Hello World". 4 años de posts sobre el estado de la industria y de profundas reflexiones acerca del por venir... Aunque no siempre ha sido así. 
 
-Realmente empecé a tomarme el blog más en serio a partir del segundo año del blog y los anteriores son una época más experimental, casual y como es costumbre en este blog, poco profesional, pero aún más. Durante el primer año solo hablaba cada cierto tiempo sobre lo que iba jugando como si fuese un diario personal, y aunque fue divertido al principio, la verdad es que me aburrí al paso de los meses. Por ello empecé a adoptar un formato más de artículos explicativos donde hablaba de cómo creaba mi web, mi experiencia con el código pero sobre todo curiosidades y opiniones de juegos concretos. Esa puede que sea mi segunda época favorita, pero ya haré un top más detallado el año que viene, que se vendrán cositas... 
+Realmente empecé a tomarme el blog más en serio a partir del segundo año del blog y los anteriores son una época más experimental, casual y como es costumbre en este blog, poco profesional, pero aún más. 
+
+Como el año pasado ya os publiqué posts antiguos, para que no se sienta tan vacío el aniversario tengo algo para vosotros: ¡La primera DEMO para "Unbuilder!"! En esta DEMO podrás probar el tutorial y el primer mundo, además de 3 modos de juego para los que se queden con ganas de más. El juego completo saldrá en 2027, os iré informado.
+
+<div class="text-center">
+
+[- Descarga la DEMO -](/Unbuilder!-Builder.exe)
+</div>
+
+
+Durante el primer año solo hablaba cada cierto tiempo sobre lo que iba jugando como si fuese un diario personal, y aunque fue divertido al principio, la verdad es que me aburrí al paso de los meses. Por ello empecé a adoptar un formato más de artículos explicativos donde hablaba de cómo creaba mi web, mi experiencia con el código pero sobre todo curiosidades y opiniones de juegos concretos. Esa puede que sea mi segunda época favorita, pero ya haré un top más detallado el año que viene, que se vendrán cositas... 
 
 Bueno, siguiendo: el segundo año fue un año de diversificación donde empecé a llevar una dirección más reflexiva y general, pero sí, sobre todo juegos concretos y posts de 2-3 minutos. Menos no significa peor, pero tampoco mejor: me pasó con mi post de "El negocio de Minecraft" que creía que sería uno de mis mejores posts por todo sobre lo que hablaría y terminé escribiendo 3 cosas y un párrafo para cada una. Eso sí, fue necesario para lo que vendría. Durante el segundo año aparecieron mis primeras reflexiones sobre la industria, y seguramente los reescribiré en algún momento; y Catorce Casual, donde cada 14 del mes escribía sobre cosas fuera de los videojuegos/Internet. La mayoría de sagas de posts han acabado entrando al final de este año ("orígenes de memes famosos", "proceso de creación de...").
 
 el tercer año siguió la estela del segundo y empecé a formar la identidad del blog de hoy en día. Es el año con mayor evolución en calidad de posts. También puse en marcha mi subida bisemanal (lo del post cada 2 semanas que se supone que cumplo). No hay mucho más que destacar salvo que redecoré el blog y cambié el enfoque de uno casual y poco profesional propio de los primeros años a una estética más profesional pero manteniendo ese toque reconocible. Más que nada lo hice porque no quería usar assets de Nintendo en mis fondos y demás para evitar problemas cara a futuro ya que mi estética todavía no estaba del todo marcada.
 
-Por último pero no por mucho, el 4 año. Es literalmente el año 3 pero mejor en todos los sentidos. Mis mejores posts, fondos, textos y demás más pulido, hace poco metí el modo claro/oscuro y empecé a crear miniaturas para mis posts. Que hablando de ellos, cada vez estaban más trabajados. Ya no era escribir cuando me aburría, era una idea que me venía de rebote y la elaboraba hasta convertirla en una reflexión desde un enfoque tal vez algo distinto a la opinión popular mientras sigo con mi sentido del humor. Eso me encanta de esta época. He sabido equilibrar entre mi yo de 2022 empezando con ese lenguaje tonto e infantil y mi tono actual que busca algo más que entretener un par de minutos.
+Por último, pero no por mucho tiempo, el 4 año. Es literalmente el año 3 pero mejor en todos los sentidos. Mis mejores posts, fondos, textos y demás más pulido, hace poco metí el modo claro/oscuro y empecé a crear miniaturas para mis posts. Que hablando de ellos, cada vez estaban más trabajados. Ya no era escribir cuando me aburría, era una idea que me venía de rebote y la elaboraba hasta convertirla en una reflexión desde un enfoque tal vez algo distinto a la opinión popular mientras sigo con mi sentido del humor. Eso me encanta de esta época. He sabido equilibrar entre mi yo de 2022 empezando con ese lenguaje tonto e infantil y mi tono actual que busca algo más que entretener un par de minutos.
 
 Y todo eso ha sido gracias a vosotros, lectores. Sé perfectamente que sois pocos, soy realista, pero gracias.
 
@@ -45,7 +55,7 @@ Se necesitarán 50 niveles para conseguir la skin, y en el camino, podrás conse
 
 No hay mucha información, pero a fecha de este post no quedarán más de 3 horas, espero, para que saquen el parche 22.30. ¡Hasta el próximo post!
 
->Lo descarté por lo inútil que es. No solo ya no sirve post-evento, no tiene nada de chicha, si se me entiende. Absoluta absura, pero la skin no estaba mal.
+>Lo descarté por lo inútil que es. No solo ya no sirve post-evento, no tiene nada de chicha, si se me entiende. Absoluta basura, pero la skin no estaba mal. Encima me acabo de dar cuenta de que escribí cómo sin acento dos veces cuando debería…
 
 
 ### Post 2
@@ -155,7 +165,7 @@ Porque no aguantamos más sus despotriques burgueses ni que nos aplaste con sus 
 
 ¡La Revolución Tetris ha comenzado! ¿Estáis listos para el gran asalto al Palacio de Invierno del Rey? ¡Nos vemos en los cuarteles del Frente Rojo! ¡Que viva el levantamiento de los tetrisistas!
 
->JA JA JA JA JA JA JAA, ¡¡¡SÍ, ESTE POST EXISTÍA!!! Este es mi mejor post descartado, porque no lo hice yo y fue para una ocasión especial. Durante una actualización, la del post del 35 Aniversario de Game Boy, toqué algo que no debía y se rompió el GitHub y no podía subir cambios. No tenía ni idea de que hacer y por no romper nada le pedía a un amigo que me ayudara. ¡Un saludo a Danilleo, por supuesto, jaja! El caso es que como iba de la Game Boy y nos gusta mucho el Tetris, me decidió gastar esta broma para avisarme de que había arreglado el blog. Absolute cinema.
+>JA JA JA JA JA JA JAA, ¡¡¡SÍ, ESTE POST EXISTÍA!!! Este es mi mejor post descartado, porque no lo hice yo y fue para una ocasión especial. Durante una actualización, la del post del 35 Aniversario de Game Boy, toqué algo que no debía y se rompió el GitHub y no podía subir cambios. No tenía ni idea de que hacer y por no romper nada le pedí a un amigo que me ayudara. ¡Un saludo a Danilleo, por supuesto, jaja! El caso es que como iba de la Game Boy y nos gusta mucho el Tetris, me decidió gastar esta broma para avisarme de que había arreglado el blog. Absolute cinema.
 
 
-Bueno, esos eran los últimos posts ocultos que tenía, espero que os hayan... eeehh... entretenido. Gracias por estos 4 años y ya pienso en cómo sorprenderos el año que viene, que como es un número redondo me lo tendré que currar. PD: Sigo trabajando en Unbuilder!, la DEMO llegará este verano supongo.
+Bueno, esos eran los últimos posts ocultos que tenía, espero que os hayan... eeehh... entretenido. Gracias por estos 4 años y ya pienso en cómo sorprenderos el año que viene, que como es un número redondo me lo tendré que currar.

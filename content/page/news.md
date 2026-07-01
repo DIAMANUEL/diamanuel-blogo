@@ -11,6 +11,8 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 
 ### Historial de cambios (desde 2025).
 
+>Nuevo post. 01/07/2026
+
 >Nuevo post (¡4º Aniversario!). 13/06/2026
 
 >Nuevo switch de modo negro/blanco, título cambiado (tab de navegador), nuevos mensajes de error 404, logos pulidos. 31/05/2026

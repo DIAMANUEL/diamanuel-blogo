@@ -11,6 +11,8 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.m
 
 ### Historial de cambios (desde 2025).
 
+>Nuevo post. 20/07/2026
+
 >Nuevo post. 01/07/2026
 
 >Nuevo post (¡4º Aniversario!). 13/06/2026

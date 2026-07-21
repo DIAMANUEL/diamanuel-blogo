@@ -9,6 +9,7 @@ Hola, hoy os explicaré las características y diferencias de todos los modelos 
 
 >Como curiosidad, DS significa Dual Screen, que es la característica principal de la consola.
 
+Antes de explicar las características de cada modelo quiero decirte una cosa: seguramente haas llegado a este blog a través de una búsqueda de Google. Si solo te interesa saber los modelos adelante, pero este blog es gratis y sin anuncios para mejorar la experiencia de los lectores, así que si lees mis otros posts me haría bastante feliz. Ahora sí, te dejo con los modelos.
 
 ***DS "Fat" ~ 2004***
 

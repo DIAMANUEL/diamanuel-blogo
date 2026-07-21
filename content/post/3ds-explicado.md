@@ -7,6 +7,8 @@ Probablemente últimamente hayas visto que la 3DS se ha vuelto a popularizar. Su
 
 No te preocupes si no conoces todas estas versiones, en este post intentaré explicar qué cualidades tiene cada modelo respecto a los demás y al final te diré cuál es mi recomendación.
 
+Antes de explicar las características de cada modelo quiero decirte una cosa: seguramente haas llegado a este blog a través de una búsqueda de Google. Si solo te interesa saber los modelos adelante, pero este blog es gratis y sin anuncios para mejorar la experiencia de los lectores, así que si lees mis otros posts me haría bastante feliz. Ahora sí, te dejo con los modelos.
+
 ***3DS original ~ 2011***
 
 ![3ds](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nintendo-3DS-AquaOpen.png/1200px-Nintendo-3DS-AquaOpen.png)

@@ -25,21 +25,25 @@ Como dije en el modelo anterior, la 3DS era pequeña, por lo que poco después d
 
 ![2ds](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Nintendo-2DS-angle.jpg/2560px-Nintendo-2DS-angle.jpg)
 
-Cuando salió, todo el mundo estalló al ver su diseño y que le habían quitado el 3D a la consola conocida precisamente por eso. Sin embargo, hoy en día hay gente que la prefiere. Yo tengo una de estas y aunque no se doble, su forma me permite llevarla en una riñonera y los gatillos son los mejores que he presionado nunca. Tiene más o menos las mismas características que la 3DS normal pero con un poco más de potencia (tampoco demasiada, pero menos da una piedra).
+Cuando salió, todo el mundo estalló al ver su diseño y que le habían quitado el 3D a la consola conocida precisamente por eso. Sin embargo, hoy en día hay gente que la prefiere. Yo tengo una de estas y aunque no se doble no es demasiado grande de por sí, me cabe en una riñonera y los gatillos son los mejores que he presionado nunca (tienen una forma que se adapta a la forma del dedo a la perfección). Tiene más o menos las mismas características que la 3DS normal pero con un poco más de potencia (tampoco demasiada, pero puede hacer alguna pantalla de carga ligeramente más corta).
 
 ![n3ds](https://upload.wikimedia.org/wikipedia/commons/a/a1/New_Nintendo_3DS.png)
 
-Esta es una versión mejorada de la 3DS original. Tiene más potencia, botones ZL y ZR y un segundo "stick" integrados, y un sistema 3D mejorado que trackeaba tu mirada.También tenía más tiempo de juego gracias a su batería, además de soporte para microSD. Más allá de eso es más o menos lo mismo. Ah, y podías cambiar unas placas exteriores para mayor personalización.
+Esta es una versión mejorada de la 3DS original. Tiene más potencia, botones ZL y ZR y un segundo "stick" integrados, y un sistema 3D mejorado que trackeaba tu mirada.También tenía más tiempo de juego gracias a su batería, además de soporte para microSD. Más allá de eso es más o menos lo mismo. Ah, y podías cambiar unas placas exteriores para mayor personalización. Esta es una opción interesante, aunque a menos que encuentres una buena oferta, casi siempre suele estar más cara o al mismo precio que su versión XL que en mi opinión es mejor.
 
 ![n3dsxl](https://upload.wikimedia.org/wikipedia/commons/b/b2/New-3DS-XL-Black.jpg)
 
-Esta es la versión definitiva de la consola tridimensional. La más grande, la más potente, la más duradera en batería y la más cara de segunda mano. Esta no tiene la opción de las placas traseras de la anterior, pero lo compensa teniendo el 3D más nítido y realista de todos.
+Esta es la versión definitiva de la consola si te interesa el efecto 3D. La más grande, la segunda más potente, la segunda más duradera en batería y la primera más cara en segunda mano. Esta no tiene la opción de las placas traseras de la anterior, pero lo compensa teniendo el 3D más nítido y realista de todos. Yo diría que si te gusta el efecto 3D y vas a usar bastante la consola, es la mejor opción.
 
 ![n2dsxl](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbD278uRMwWpqT5KTVTOR2MqDsyC5hU-vSnFrQ6ojVJbl9v5cBDoassS572aOTINvi20o&usqp=CAU)
 
-Si no quieres pagar +290€ por una DS 3D, puedes pillar una New 2DS XL por bastante menos. Es lo mismo que la anterior pero sin 3D. Salió después de la Switch, por lo que es la más olvidada. En mi opinión, esta es la mejor opción calidad-precio.
+Si no quieres pagar +200€ por una New 3DS, puedes pillar una New 2DS XL por un poco menos. Es lo mismo que la anterior pero sin 3D y con algo más de potencia y batería. Salió después de la Switch, por lo que es algo menos conocida. En mi opinión, esta es la mejor opción calidad-precio. 
+
+En resumen: Si eres más bien casual o crees que no vas a usar la consola demasiado las mejores opciones son la 2DS o la 3DS originales (si te interesa por el 3D, pilla antes de la normal la versión XL, que se ve mejor). Si sí que la vas a usar sería entre las versiones New, en especial los modelos XL. Si no tienes preferencia de estas, solo busca la más barata, porque los tres modelos están en un rango de precios parecido.
 
 Estas han sido todas las versiones de 3DS/2DS que han salido, con sus características. Espero que os haya sido útil y os haya hecho la vida más fácil. ¡Hasta la próxima!
+
+>Imágenes de Wikipedia Commons.
 
 
 

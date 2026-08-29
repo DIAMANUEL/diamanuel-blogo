@@ -1,5 +1,5 @@
 ---
-title: "Todos los modelos de 3DS expliados"
+title: "Todos los modelos de 3DS explicados"
 date: 2025-05-11T17:00:35+02:00
 draft: false
 ---

@@ -7,9 +7,11 @@ En esta página podrás encontrar los últimos cambios a la web. Si te interesa 
  
 O puedes enterarte de próximos eventos, encuestas y planes del blog y de otros proyectos desde el canal de **WhatsApp**: <https://whatsapp.com/channel/0029VaG8cgt7dmeVMGG87Y2V>
 
-Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel.pm.me**.
+Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel@pm.me**.
 
 ### Historial de cambios (desde 2025).
+
+>Nuevo post. 29/08/2026
 
 >Nuevo post. 14/08/2026
 

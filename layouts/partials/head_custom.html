@@ -1,41 +1,3 @@
-<!-- Anti-Flash Theme Initializer (Defaulting to Dark Mode) -->
-<script type="text/javascript">
-  (function() {
-    const savedTheme = localStorage.getItem('theme');
-    // If the user manually saved 'light', use light. Otherwise, default to dark.
-    if (savedTheme === 'light') {
-      document.documentElement.setAttribute('data-theme', 'light');
-    } else {
-      document.documentElement.setAttribute('data-theme', 'dark');
-    }
-  })();
-</script>
-
-<script>
-  // 1. Immediately check for a saved theme preference, fallback to 'dark'
-  const savedTheme = localStorage.getItem('theme') || 'dark';
-  document.documentElement.setAttribute('data-theme', savedTheme);
-
-  // 2. Run this once the DOM is ready to wire up the button click event
-  document.addEventListener('DOMContentLoaded', () => {
-    const toggleBtn = document.getElementById('theme-toggle-btn');
-    
-    if (toggleBtn) {
-      toggleBtn.addEventListener('click', () => {
-        // Get the current theme state
-        const currentTheme = document.documentElement.getAttribute('data-theme');
-        // Switch to the opposite theme
-        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-        
-        // Apply the new theme to the document
-        document.documentElement.setAttribute('data-theme', newTheme);
-        // Save the setting to local storage so it persists
-        localStorage.setItem('theme', newTheme);
-      });
-    }
-  });
-</script>
-
 <!-- Meta básico -->
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -153,4 +115,81 @@
       localStorage.setItem("theme", newTheme);
     });
   });
+</script>
+
+<!-- Konami Code Spanish Keyboard Soundboard -->
+<div id="soundboard-notification" style="position: fixed; bottom: 20px; right: 20px; background: #0c273f; color: #ffba08; padding: 12px 20px; border-radius: 8px; font-family: 'Rubik', sans-serif; z-index: 9999; display: none; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border: 1px solid #f0fc00;">
+  🔊 ¡Soundboard Activo! Escribe para elegir los sonidos.
+</div>
+
+<script>
+(function() {
+  const konamiCode = ['ArrowUp', 'ArrowUp', 'ArrowDown', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'ArrowLeft', 'ArrowRight', 'b', 'a'];
+  let konamiIndex = 0;
+  let soundboardActive = false;
+
+  // Sound mapping using direct Myinstants MP3 links
+  const soundMap = {
+    'a': 'https://www.myinstants.com/media/sounds/among-us-role-reveal-sound.mp3',
+    'b': 'https://www.myinstants.com/media/sounds/bad-to-the-bone-meme.mp3',
+    'c': 'https://www.myinstants.com/media/sounds/half-life-crowbar-clang.mp3',
+    'd': 'https://www.myinstants.com/media/sounds/discord-notification.mp3',
+    'e': 'https://www.myinstants.com/media/sounds/deltarune-explosion.mp3',
+    'f': 'https://www.myinstants.com/media/sounds/faahhhhhhhh.mp3',
+    'g': 'https://www.myinstants.com/media/sounds/gamecube-startup.mp3',
+    'h': 'https://www.myinstants.com/media/sounds/hog-rider-not-loud.mp3',
+    'i': 'https://www.myinstants.com/media/sounds/wii-sports-wii-sports-theme-y.mp3',
+    'j': 'https://www.myinstants.com/media/sounds/deltarune-jarona.mp3',
+    'k': 'https://www.myinstants.com/media/sounds/funky-kong-alright.mp3',
+    'l': 'https://www.myinstants.com/media/sounds/lobotomy-sound.mp3',
+    'm': 'https://www.myinstants.com/media/sounds/the-beginning-of-megalovania.mp3',
+    'n': 'https://www.myinstants.com/media/sounds/nintendo-game-boy-startup.mp3',
+    'ñ': 'https://www.myinstants.com/media/sounds/antonio-lobato.mp3', // Special Spanish key!
+    'o': 'https://www.myinstants.com/media/sounds/dd_phoenix_objection_en.mp3',
+    'p': 'https://www.myinstants.com/media/sounds/jixaw-metal-pipe-falling-sound.mp3',
+    'q': 'https://www.myinstants.com/media/sounds/deltarune-queen-laugh.mp3',
+    'r': 'https://www.myinstants.com/media/sounds/26f8b9_sonic_ring_sound_effect.mp3',
+    's': 'https://www.myinstants.com/media/sounds/sega-hd.mp3',
+    't': 'https://www.myinstants.com/media/sounds/taco-bell-bong-sfx.mp3',
+    'u': 'https://www.myinstants.com/media/sounds/parry-ultrakill.mp3',
+    'v': 'https://www.myinstants.com/media/sounds/vine-boom.mp3',
+    'w': 'https://www.myinstants.com/media/sounds/disconnect.mp3',
+    'x': 'https://www.myinstants.com/media/sounds/wrong-answer-buzzer.mp3',
+    'y': 'https://www.myinstants.com/media/sounds/yipeeee.mp3',
+    'z': 'https://www.myinstants.com/media/sounds/minecraft-zombie-bruh-sound-effect-1.mp3'
+  };
+
+  window.addEventListener('keydown', function(e) {
+    if (soundboardActive) {
+      const key = e.key.toLowerCase();
+      if (soundMap[key]) {
+        e.preventDefault();
+        const audio = new Audio(soundMap[key]);
+        audio.play().catch(err => console.log("Audio play blocked or failed:", err));
+      }
+      return;
+    }
+
+    if (e.key === konamiCode[konamiIndex] || e.key.toLowerCase() === konamiCode[konamiIndex]) {
+      konamiIndex++;
+      if (konamiIndex === konamiCode.length) {
+        soundboardActive = true;
+        showNotification();
+        konamiIndex = 0;
+      }
+    } else {
+      konamiIndex = 0;
+    }
+  });
+
+  function showNotification() {
+    const notif = document.getElementById('soundboard-notification');
+    if (notif) {
+      notif.style.display = 'block';
+      setTimeout(() => {
+        notif.style.display = 'none';
+      }, 5000);
+    }
+  }
+})();
 </script>

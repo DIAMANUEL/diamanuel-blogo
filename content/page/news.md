@@ -11,6 +11,8 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel@pm.m
 
 ### Historial de cambios (desde 2025).
 
+>Modo Soundboard integrado. Usa el código Konami para activarlo. 08/09/2026
+
 >Nuevo post. 29/08/2026
 
 >Nuevo post. 14/08/2026

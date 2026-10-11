@@ -2,10 +2,10 @@
 title: "La 3DS es la mejor consola portátil"
 date: 2026-10-11T00:00:00+02:00
 draft: false
-image: "/img/posts/"
+image: "/img/posts/3ds-gem.jpg"
 tag: ["Videojuegos", "Retro", "3DS"]
 ---
-![](/img/posts/.png)
+![Gem Alert](/img/posts/3ds-gem.jpg)
 
 La 3DS es una consola que aunque en su momento no fracasó para nada y vendió muy bien, no fue hasta estos últimos años que se le ha dado más reconocimiento por lo que es.
 

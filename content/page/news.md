@@ -11,6 +11,8 @@ Si quieres hablar conmigo de forma privada puedes desde email : **diamanuel@pm.m
 
 ### Historial de cambios (desde 2025).
 
+>Fondo Halloween. 29/10/2026
+
 >Nuevo post. 11/10/2026
 
 >Modo Soundboard integrado. Usa el código Konami para activarlo. 08/09/2026

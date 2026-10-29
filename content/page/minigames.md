@@ -1,5 +1,5 @@
 +++
-title = "Juegos Caseros ;)"
+title = "Juegos Caseros"
 layout = "page"
 +++
 

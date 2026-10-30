@@ -8,7 +8,7 @@ body {
   display: flex;
   flex-flow: column;
   height: 100vh;
-  background-image: url(../img/Backgrounds/DMBG-light.png);
+  background-image: url(../img/Backgrounds/nubesHalloween.png);
   transition: background-image 0.3s ease, background-color 0.3s ease;
 }
 
@@ -749,7 +749,7 @@ footer .container {
 
 /* ========================================================================== DARK THEME OVERRIDES (data-theme="dark") ========================================================================== */
 html[data-theme="dark"] body {
-  background-image: url(../img/Backgrounds/DMBG.png) !important;
+  background-image: url(../img/Backgrounds/nubesHalloween.png) !important;
   background-color: #121212 !important;
   color: #e0e0e0 !important;
 }
